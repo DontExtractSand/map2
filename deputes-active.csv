@@ -1,0 +1,579 @@
+id,civ,nom,prenom,groupe,groupeAbrev,departementNom,departementCode,circo,mail,twitter,facebook,website,permanence
+PA1008,M.,David,Alain,Socialistes et apparentés,SOC,Gironde,33,4,Alain.David@assemblee-nationale.fr,@AlainDavid_AN,AlainDavidAssembleeNationale,alain-david.com,"7, Avenue Roger Schwob 33150 Cenon"
+PA1327,M.,Forissier,Nicolas,Droite Républicaine,DR,Indre,36,2,Nicolas.Forissier@assemblee-nationale.fr,@N_Forissier,nicolas.forissier,,"4, Place de l'Hôtel de Ville 36400 La Châtre"
+PA1567,M.,Guedj,Jérôme,Socialistes et apparentés,SOC,Essonne,91,6,jerome.guedj@assemblee-nationale.fr,@JeromeGuedj,jeromeguedj,jerome-guedj.fr,"36, Gabriel Péri 91300 Massy"
+PA1592,M.,Habib,David,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Pyrénées-Atlantiques,64,3,David.Habib@assemblee-nationale.fr,@DavidDhabib,DavidHabib64,www.david-habib.fr,"9, Rue des Jacobins 64300 Orthez"
+PA1630,M.,Herbillon,Michel,Droite Républicaine,DR,Val-de-Marne,94,8,Michel.Herbillon@assemblee-nationale.fr,@Michelherbillon,michel.herbillon.94,,"118, Avenue du Général de Gaulle, 94700 Maisons-Alfort"
+PA1654,M.,Hollande,François,Socialistes et apparentés,SOC,Corrèze,19,1,francois.hollande@assemblee-nationale.fr,,,www.depute-francoishollande.fr,"17, Quai Alfred de Chammard BP 121 19004 Tulle"
+PA227089,Mme,Létard,Valérie,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Nord,59,21,valerie.letard@assemblee-nationale.fr,@valerieletard,people/Val%C3%A9rie-L%C3%A9tard/100058007233955,www.valerieletard.org,
+PA266793,M.,Bony,Jean-Yves,Droite Républicaine,DR,Cantal,15,2,Jean-Yves.Bony@assemblee-nationale.fr,,jeanyves.bony.165,,"4, Rue Fernand Talandier 15200 Mauriac"
+PA266797,M.,Gosselin,Philippe,Droite Républicaine,DR,Manche,50,1,philippe.gosselin@assemblee-nationale.fr,@phgosselin,phgosselin,www.philippegosselin.fr,"45, Route de Villedieu 50000 Saint-Lô"
+PA266808,M.,Rolland,Vincent,Droite Républicaine,DR,Savoie,73,2,Vincent.Rolland@assemblee-nationale.fr,@VRolland73,vincent.rolland.9,vincentrolland.fr,"5, Place Ferdinand Million 73200 Albertville"
+PA267042,M.,Favennec-Bécot,Yannick,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Mayenne,53,3,Yannick.Favennec@assemblee-nationale.fr,@yfavennec,yannickfavennecofficiel,www.favennecactualite.com,"4, Place du 9 juin, 53100 Mayenne"
+PA267200,M.,Huyghe,Sébastien,Ensemble pour la République,EPR,Nord,59,5,sebastien.huyghe@assemblee-nationale.fr,@SebastienHuyghe,shuyghe.depute,,"234, Rue du Général de Gaulle, BP 10099 59635 Wattignies Cedex"
+PA267285,M.,Wauquiez,Laurent,Droite Républicaine,DR,Haute-Loire,43,1,laurent.wauquiez@assemblee-nationale.fr,,,,
+PA267306,M.,Chassaigne,André,Gauche Démocrate et Républicaine,GDR,Puy-de-Dôme,63,5,Andre.Chassaigne@assemblee-nationale.fr,@AndreChassaigne,djlkjee,www.andrechassaigne.org,"4, Place Jean-Antoine Pourtier 63890 Saint-Amant-Roche-Savine"
+PA267318,M.,Grelier,Jean-Carles,Les Démocrates,DEM,Sarthe,72,5,Jean-Carles.Grelier@assemblee-nationale.fr,@JCGrelier,jeancarles.grelier,,"119, Rue de Malpalu 72000 Le Mans"
+PA267561,Mme,Barèges,Brigitte,UDR,UDR,Tarn-et-Garonne,82,1,brigitte.bareges@assemblee-nationale.fr,@X : x.com/BrigitteBareges,brigitte.bareges,www.brigittebareges.com,
+PA267763,M.,Bataille,Jean-Pierre,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Nord,59,15,jean-pierre.bataille@assemblee-nationale.fr,,,,
+PA267780,Mme,Firmin Le Bodo,Agnès,Horizons & Indépendants,HOR,Seine-Maritime,76,7,Agnes.FirminLeBodo@assemblee-nationale.fr,@agnesfirmin,agnesfirminlebodo,,"7 Bis, Rue du Maréchal Gallieni 76000 Le Havre"
+PA267794,Mme,Tabarot,Michèle,Droite Républicaine,DR,Alpes-Maritimes,6,9,Michele.Tabarot@assemblee-nationale.fr,@MTabarot,MTabarot,www.micheletabarot.fr/,"56, Place du Logis 06580 Pégomas"
+PA2940,Mme,Voynet,Dominique,Écologiste et Social,ECOS,Doubs,25,2,dominique.voynet@assemblee-nationale.fr,,,,"19, Rue Charles Krug 25000 Besancon"
+PA2952,M.,Warsmann,Jean-Luc,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Ardennes,8,3,Jean-Luc.Warsmann@assemblee-nationale.fr,@warsmann,warsmann,,"11, Rue Carnot 08200 Sedan"
+PA2960,M.,Woerth,Éric,Ensemble pour la République,EPR,Oise,60,4,Eric.Woerth@assemblee-nationale.fr,@ericwoerth,ewoerth,,"12, Rue de Villevert 2ème étage 60300 Senlis"
+PA309643,Mme,Besse,Véronique,Non inscrit,NI,Vendée,85,4,veronique.besse@assemblee-nationale.fr,@veroniquebesse,,www.veroniquebesse2022.fr,"49, Rue du Pont de la Ville 85500 Les Herbiers"
+PA330008,M.,Breton,Xavier,Droite Républicaine,DR,Ain,1,1,Xavier.Breton@assemblee-nationale.fr,@bretonxavier,xavierbreton01,www.xavierbreton.fr,"27, Rue du Docteur Hudellet 01000 Bourg-en-Bresse"
+PA330240,M.,Ciotti,Éric,UDR,UDR,Alpes-Maritimes,6,1,Eric.Ciotti@assemblee-nationale.fr,@ECiotti,ECIOTTI,www.eric-ciotti.com,"15, Quai des Deux Emmanuel 06300 Nice"
+PA330909,M.,Descoeur,Vincent,Droite Républicaine,DR,Cantal,15,1,Vincent.Descoeur@assemblee-nationale.fr,@VincentDescoeur,VincentDescoeur,www.descoeur.com,"24, Rue Paul Doumer 15000 Aurillac"
+PA331582,M.,Vigier,Philippe,Les Démocrates,DEM,Eure-et-Loir,28,4,Philippe.Vigier@assemblee-nationale.fr,@VigierPhilippe,deputephilippevigier,,"27, Rue du maréchal Lyautey 28200 Châteaudun"
+PA331973,Mme,Got,Pascale,Socialistes et apparentés,SOC,Gironde,33,5,pascale.got@assemblee-nationale.fr,,,,
+PA332228,M.,Benoit,Thierry,Horizons & Indépendants,HOR,Ille-et-Vilaine,35,6,Thierry.Benoit@assemblee-nationale.fr,@ThierryBenoit35,Thierry.Benoit.148,www.thierry-benoit.fr,"1 Bis, Boulevard Leclerc 35300 Fougères"
+PA332523,Mme,Dalloz,Marie-Christine,Droite Républicaine,DR,Jura,39,2,Marie-Christine.Dalloz@assemblee-nationale.fr,,mariechristinedalloz,www.mcdalloz.fr/,"63, Rue du Collège 39200 Saint-Claude"
+PA333285,M.,Garot,Guillaume,Socialistes et apparentés,SOC,Mayenne,53,1,Guillaume.Garot@assemblee-nationale.fr,@guillaumegarot,guillaumegarot.fr,www.guillaume-garot.fr/,"22, Rue Souchu-Servinière, 53000 Laval"
+PA335054,Mme,Karamanli,Marietta,Socialistes et apparentés,SOC,Sarthe,72,2,Marietta.Karamanli@assemblee-nationale.fr,@MKaramanli72,MariettaKaramanli,www.mariettakaramanli.fr,"39, Rue Evrard 72100 Le Mans"
+PA335612,M.,Lecoq,Jean-Paul,Gauche Démocrate et Républicaine,GDR,Seine-Maritime,76,8,Jean-Paul.Lecoq@assemblee-nationale.fr,,jplecoq76,jeanpaul-lecoq.fr,"55, Rue de la République 76700 Harfleur"
+PA335758,M.,Riester,Franck,Ensemble pour la République,EPR,Seine-et-Marne,77,5,franck.riester@assemblee-nationale.fr,@franckriester,franck.riester,www.franckriester.fr/,
+PA335999,Mme,Batho,Delphine,Écologiste et Social,ECOS,Deux-Sèvres,79,2,Delphine.Batho@assemblee-nationale.fr,@delphinebatho,DelphineBatho,,"12, Avenue du Commandant Bernier 79500 Melle"
+PA340343,M.,Saulignac,Hervé,Socialistes et apparentés,SOC,Ardèche,7,1,Herve.Saulignac@assemblee-nationale.fr,@hsaulignac,herve.saulignac,www.hervesaulignac.fr,"5, Cours du Palais 07000 Privas"
+PA341981,Mme,Récalde,Marie,Socialistes et apparentés,SOC,Gironde,33,6,marie.recalde@assemblee-nationale.fr,,,,
+PA342196,Mme,Rouaux,Claudia,Socialistes et apparentés,SOC,Ille-et-Vilaine,35,3,claudia.rouaux@assemblee-nationale.fr,@claudia_rouaux,claudiarouaux35,www.claudiarouaux.fr,"2, Avenue du Languedoc 35000 Rennes"
+PA342240,M.,Bourgeaux,Jean-Luc,Droite Républicaine,DR,Ille-et-Vilaine,35,7,jean-luc.bourgeaux@assemblee-nationale.fr,,,,"73, Rue Ville Pépin 35400 Saint-Malo"
+PA342384,Mme,Martin,Élisa,La France insoumise - Nouveau Front Populaire,LFI-NFP,Isère,38,3,elisa.martin@assemblee-nationale.fr,@ElisaMartinGre,,,"3, Rue des Pins 38100 Grenoble"
+PA342415,Mme,Battistel,Marie-Noëlle,Socialistes et apparentés,SOC,Isère,38,4,Marie-Noelle.Battistel@assemblee-nationale.fr,@BattistelMarie,marienoelle.battistel,www.marienoelle-battistel.fr,"5, Rue de la Poste 38170 Seyssinet-Pariset"
+PA345722,Mme,Le Grip,Constance,Ensemble pour la République,EPR,Hauts-de-Seine,92,6,Constance.LeGrip@assemblee-nationale.fr,@ConstanceLeGrip,Deputee.ConstanceLeGrip,constance-legrip.fr,
+PA346782,M.,Juvin,Philippe,Droite Républicaine,DR,Hauts-de-Seine,92,3,philippe.juvin@assemblee-nationale.fr,@philippejuvin,philippe.juvin,www.philippejuvin.fr,
+PA408578,M.,Berger,Jean-Didier,Droite Républicaine,DR,Hauts-de-Seine,92,12,jean-didier.berger@assemblee-nationale.fr,@JD_Berger,JeanDidierBerger.pageofficielle,,
+PA569,M.,Bonnecarrère,Philippe,Non inscrit,NI,Tarn,81,1,philippe.bonnecarrere@assemblee-nationale.fr,@PBonnecarrere81,,philippebonnecarrere.fr,
+PA588884,Mme,Autain,Clémentine,Écologiste et Social,ECOS,Seine-Saint-Denis,93,11,Clementine.Autain@assemblee-nationale.fr,@Clem_Autain,clementineautain,clementine-autain.fr/,
+PA605694,M.,Falorni,Olivier,Les Démocrates,DEM,Charente-Maritime,17,1,Olivier.Falorni@assemblee-nationale.fr,@OlivierFalorni,olivierfalorni,olivierfalorni.fr,"12 Ter, Rue Villeneuve 17000 La Rochelle"
+PA605745,M.,Sansu,Nicolas,Gauche Démocrate et Républicaine,GDR,Cher,18,2,nicolas.sansu@assemblee-nationale.fr,@NicolasSansu,,,"38, Rue du Maréchal Joffre 18100 Vierzon"
+PA605782,M.,Marcangeli,Laurent,Horizons & Indépendants,HOR,Corse-du-sud,2a,1,laurent.marcangeli@assemblee-nationale.fr,@LMarcangeli,,laurentmarcangeli.corsica,
+PA605991,Mme,Genevard,Annie,Droite Républicaine,DR,Doubs,25,5,Annie.Genevard@assemblee-nationale.fr,@AnnieGenevard,AnnieGenevard,www.anniegenevard.fr,"5, Rue du Parc 25300 Pontarlier"
+PA606098,M.,Marleix,Olivier,Droite Républicaine,DR,Eure-et-Loir,28,2,Olivier.Marleix@assemblee-nationale.fr,@oliviermarleix,MarleixOlivier,,"7, Rue Saint-Martin 28100 Dreux"
+PA606507,M.,Boudié,Florent,Ensemble pour la République,EPR,Gironde,33,10,Florent.Boudie@assemblee-nationale.fr,@FlBoudie,Florent-Boudié-2024,www.florentboudie.fr,"12, Cours des Girondins 33500 Libourne"
+PA606545,M.,Roumégas,Jean-Louis,Écologiste et Social,ECOS,Hérault,34,1,jean-louis.roumegas@assemblee-nationale.fr,@jlroumegas,jlroumegas,,
+PA606573,Mme,Dombre Coste,Fanny,Socialistes et apparentés,SOC,Hérault,34,3,fanny.dombrecoste@assemblee-nationale.fr,@F_DombreCoste,dombrecoste.fanny,,
+PA606793,M.,Baumel,Laurent,Socialistes et apparentés,SOC,Indre-et-Loire,37,4,laurent.baumel@assemblee-nationale.fr,,,,
+PA607090,M.,Vigier,Jean-Pierre,Droite Républicaine,DR,Haute-Loire,43,2,Jean-Pierre.Vigier@assemblee-nationale.fr,@j_pVigier,VigierJP,www.jpvigier.fr,"12, Avenue Clément Charbonnier 43000 Le-Puy-en-Velay"
+PA607193,Mme,Errante,Sophie,Non inscrit,NI,Loire-Atlantique,44,10,Sophie.Errante@assemblee-nationale.fr,@SophieErrante,SophieErrante,,"10, Rue du Cep 44190 Gorges"
+PA607395,M.,Travert,Stéphane,Ensemble pour la République,EPR,Manche,50,3,Stephane.Travert@assemblee-nationale.fr,@StTRAVERT,Stéphane-Travert-2017-256137114468103,,"11, Rue du Calvaire BP 23 50250 La Haye du Puits"
+PA607553,M.,Potier,Dominique,Socialistes et apparentés,SOC,Meurthe-et-Moselle,54,5,Dominique.Potier@assemblee-nationale.fr,@potierdominique,potierdominique,www.dominiquepotier.com,"27, Avenue du Maréchal Foch 54200 Toul"
+PA607619,M.,Molac,Paul,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Morbihan,56,4,Paul.Molac@assemblee-nationale.fr,@paul_molac,paulmolac,paulmolac.bzh,"26, Place de la Mairie 56800 Ploërmel"
+PA607846,M.,Darmanin,Gérald,Ensemble pour la République,EPR,Nord,59,10,gerald.darmanin@assemblee-nationale.fr,,,www.darmanin.fr,"1, Place Victor Hassebroucq 59200 Tourcoing"
+PA608016,Mme,Louwagie,Véronique,Droite Républicaine,DR,Orne,61,2,Veronique.Louwagie@assemblee-nationale.fr,@VeroLouwagie,Véronique Louwagie,www.veroniquelouwagie.fr,"9, Rue du Docteur Rouyer 61300 L'Aigle"
+PA608172,Mme,Pirès Beaune,Christine,Socialistes et apparentés,SOC,Puy-de-Dôme,63,2,Christine.PiresBeaune@assemblee-nationale.fr,@cpiresbeaune,ChristinePiresBeaune,www.christinepiresbeaune.fr,"8 Ter, Avenue de Virlogeux 63200 Riom"
+PA608264,Mme,Capdevielle,Colette,Socialistes et apparentés,SOC,Pyrénées-Atlantiques,64,5,colette.capdevielle@assemblee-nationale.fr,,,,
+PA608416,M.,Hetzel,Patrick,Droite Républicaine,DR,Bas-Rhin,67,7,Patrick.Hetzel@assemblee-nationale.fr,@patrickhetzel,Patrick-Hetzel,www.patrick-hetzel.fr,"14, Rue de Phalsbourg 67260 Sarre-Union|9, Rue de la Gare 67700 Saverne"
+PA608826,Mme,Duby-Muller,Virginie,Droite Républicaine,DR,Haute-Savoie,74,4,Virginie.Duby-Muller@assemblee-nationale.fr,@DubyMuller,vir.muller,www.virginiedubymuller.fr,"7, Place de la Libération BP 59 74100 Annemasse"
+PA609332,M.,Faure,Olivier,Socialistes et apparentés,SOC,Seine-et-Marne,77,11,Olivier.Faure@assemblee-nationale.fr,@faureolivier,olivierfaure77,www.olivierfaure.fr, 77550 Moissy-Cramayel
+PA610002,Mme,Sas,Eva,Écologiste et Social,ECOS,Paris,75,8,eva.sas@assemblee-nationale.fr,@_EvaSas,,,"10, Rue Taine 75012 Paris"
+PA610654,M.,Nilor,Jean-Philippe,La France insoumise - Nouveau Front Populaire,LFI-NFP,Martinique,972,4,Jean-Philippe.Nilor@assemblee-nationale.fr,,Jean-Philippe-NILOR-297068797117195,jpnilor.com,"12, Rue Paul Langevin, 97228 Sainte-Luce"
+PA610968,M.,Amirshahi,Pouria,Écologiste et Social,ECOS,Paris,75,5,pouria.amirshahi@assemblee-nationale.fr,@PouriaAmirshahi,Pouria Amirshahi,pouriaamirshahi.fr,
+PA642695,M.,Bothorel,Éric,Ensemble pour la République,EPR,Côtes-d'armor,22,5,Eric.Bothorel@assemblee-nationale.fr,@ebothorel,Eric-Bothorel-Député-circo2205,ericbothorel.fr,"32, Place du Marchallac'h 22300 Lannion"
+PA642764,M.,Aviragnet,Joël,Socialistes et apparentés,SOC,Haute-Garonne,31,8,Joel.Aviragnet@assemblee-nationale.fr,@JAviragnet,profile.php?id=100001391067319,www.joelaviragnet.com,"5, Place Jean Jaurès 31800 Saint-Gaudens"
+PA642847,M.,Bazin,Thibault,Droite Républicaine,DR,Meurthe-et-Moselle,54,4,Thibault.Bazin@assemblee-nationale.fr,@thibault_bazin,DeputeThibaultBAZIN,www.thibaultbazin.fr,"17, Rue Carnot 54300 Lunéville"
+PA642868,M.,Christophe,Paul,Horizons & Indépendants,HOR,Nord,59,14,Paul.Christophe@assemblee-nationale.fr,@christophe_p,Paul-Christophe-Député-du-Nord-1387587231318843,paulchristophe.fr/,"11, Place du marché aux fruits 59630 Bourbourg"
+PA642935,M.,Becht,Olivier,Ensemble pour la République,EPR,Haut-Rhin,68,5,olivier.becht@assemblee-nationale.fr,@becht_olivier,OlivierBecht68,www.olivierbecht.com,"28, Rue Zuber 68170 Rixheim"
+PA642988,M.,de Lépinau,Hervé,Rassemblement National,RN,Vaucluse,84,3,herve.delepinau@assemblee-nationale.fr,@H2Lepinau,CarpentrasBM,,"152, Boulevard Gilloux et Raymond 84200 Carpentras"
+PA643089,M.,Thiériot,Jean-Louis,Droite Républicaine,DR,Seine-et-Marne,77,3,Jean-Louis.Thieriot@assemblee-nationale.fr,@JL_Thieriot,JLTHIERIOT,,"5, Place Colonel Fabien 77130 Montereau Fault Yonne"
+PA643143,M.,Baptiste,Christian,Socialistes et apparentés,SOC,Guadeloupe,971,2,christian.baptiste@assemblee-nationale.fr,@ChrisBapt,,,Place Schloelcher 97180 Sainte-Anne
+PA643157,M.,Naillet,Philippe,Socialistes et apparentés,SOC,Réunion,974,1,philippe.naillet@assemblee-nationale.fr,@PNaillet,nailletphilippe,,"100, Rue Sainte-Marie 97400 Saint-Denis de La Réunion"
+PA643175,Mme,Dupont,Stella,Non inscrit,NI,Maine-et-Loire,49,2,Stella.Dupont@assemblee-nationale.fr,@stelladupont,stelladupont,stelladupont.fr/,"10, Rue Félix Faure 49290 Chalonnes-sur-Loire"
+PA643184,Mme,Klinkert,Brigitte,Ensemble pour la République,EPR,Haut-Rhin,68,1,brigitte.klinkert@assemblee-nationale.fr,@klinkertbrigitt,brigitte.klinkert,,"12, Place du Capitaine Dreyfus 68000 Colmar"
+PA643192,Mme,Jourdan,Chantal,Socialistes et apparentés,SOC,Orne,61,1,chantal.jourdan@assemblee-nationale.fr,,profile.php?id=100009822755402,,"61, Rue Balzac 61000 Alençon"
+PA677483,M.,Mazars,Stéphane,Ensemble pour la République,EPR,Aveyron,12,1,Stephane.Mazars@assemblee-nationale.fr,@s_mazars,StephaneMazars,,"2, Rue Lebon 12000 Rodez"
+PA687214,M.,Berrios,Sylvain,Horizons & Indépendants,HOR,Val-de-Marne,94,1,sylvain.berrios@assemblee-nationale.fr,@sy_berrios,berrios,,
+PA695512,M.,Lepers,Guillaume,Droite Républicaine,DR,Lot-et-Garonne,47,3,guillaume.lepers@assemblee-nationale.fr,@GuillaumeLEPERS,guillaume.lepers47,,
+PA712015,M.,Dive,Julien,Droite Républicaine,DR,Aisne,2,2,Julien.Dive@assemblee-nationale.fr,@juliendive,,,"19, Rue du Gouvernement 02100 Saint-Quentin"
+PA717161,Mme,Borne,Élisabeth,Ensemble pour la République,EPR,Calvados,14,6,elisabeth.borne@assemblee-nationale.fr,,,,"5, Rue Emile Chenel 14500 Vire-Normandie"
+PA717379,M.,Maillard,Sylvain,Ensemble pour la République,EPR,Paris,75,1,Sylvain.Maillard@assemblee-nationale.fr,@sylvainmaillard,sylvainmaillardparis,sylvainmaillard.fr,
+PA718674,Mme,Givernet,Olga,Ensemble pour la République,EPR,Ain,1,3,Olga.Givernet@assemblee-nationale.fr,@OlgaGivernet,Page-politique-dOlga-Givernet-1118292008192135,www.olga-givernet.fr,
+PA718784,M.,Pauget,Éric,Droite Républicaine,DR,Alpes-Maritimes,6,7,Eric.Pauget@assemblee-nationale.fr,@EricPAUGET1,PaugetDepute,www.ericpauget.fr,"6, Rue Sadi Carnot 06600 Antibes"
+PA718838,M.,Brun,Fabrice,Droite Républicaine,DR,Ardèche,7,3,Fabrice.Brun@assemblee-nationale.fr,@FabriceBrun,FabriceBrunArdeche,fabricebrun.fr, BP 50013 07201 Aubenas Cedex
+PA718850,M.,Cordier,Pierre,Droite Républicaine,DR,Ardennes,8,2,Pierre.Cordier@assemblee-nationale.fr,@CORDIERPierre08,pierre.cordier.1004,,"46, Avenue de Saint-Julien 08000 Charleville-Mézières"
+PA718884,Mme,Bazin-Malgras,Valérie,Droite Républicaine,DR,Aube,10,2,Valerie.Bazin-Malgras@assemblee-nationale.fr,@vbazinmalgras,VBazinMalgras,,"4, Place Maréchal Foch 10000 Troyes"
+PA719024,M.,Blanchet,Christophe,Les Démocrates,DEM,Calvados,14,4,Christophe.Blanchet@assemblee-nationale.fr,@christoblanchet,christopheblanchet,www.christophe-blanchet.fr,"21, Route de Cabourg 14810 Merville-Franceville"
+PA719032,M.,Bouyx,Bertrand,Horizons & Indépendants,HOR,Calvados,14,5,Bertrand.Bouyx@assemblee-nationale.fr,@BertrandBouyx,bertrandbouyx.fr,www.bertrandbouyx.fr,"46, Rue Saint-Jean Allée de l'Orangerie 14400 Bayeux"
+PA719052,M.,Kervran,Loïc,Horizons & Indépendants,HOR,Cher,18,3,Loic.Kervran@assemblee-nationale.fr,@LoicKervran18,facebook.com/LoicKervran18,loic-kervran.fr,"19, Rue Littré 18000 Bourges"
+PA719080,Mme,Marsaud,Sandra,Ensemble pour la République,EPR,Charente,16,2,Sandra.Marsaud@assemblee-nationale.fr,@MARSAUDSandra,sandramarsaudlarepubliquenmarche,www.sandramarsaud.fr,"12, Rue de l'Aumônerie BP 90117 16200 Jarnac"
+PA719118,M.,Cormier-Bouligeon,François,Ensemble pour la République,EPR,Cher,18,1,Francois.Cormier-Bouligeon@assemblee-nationale.fr,@FCBDeputeduCher,@francoiscormierbouligeonmajoritepresidentielle,www.francoiscormierbouligeon.fr,"7, Rue Jean-François Champollion 18000 Bourges"
+PA719138,M.,Castellani,Michel,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Haute-corse,2b,1,Michel.Castellani@assemblee-nationale.fr,@Castellani_,MicheCastellani,,"34, Boulevard Paoli 20200 Bastia"
+PA719218,M.,Berville,Hervé,Ensemble pour la République,EPR,Côtes-d'armor,22,2,herve.berville@assemblee-nationale.fr,@HerveBerville,HerveBerville,,"64, Rue de Brest 22100 Dinan"
+PA719272,Mme,Meunier,Frédérique,Droite Républicaine,DR,Corrèze,19,2,Frederique.Meunier@assemblee-nationale.fr,@fmeunier19,profile.php?id=100014963402726,,"2 Bis, Avenue du Président Roosevelt 19100 Brive La Gaillarde"
+PA719286,M.,Colombani,Paul-André,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Corse-du-sud,2a,2,Paul-Andre.Colombani@assemblee-nationale.fr,@pacolombani,PAcolombani,,Galerie des salines 20000 Ajaccio
+PA719338,Mme,Melchior,Graziella,Ensemble pour la République,EPR,Finistère,29,5,Graziella.Melchior@assemblee-nationale.fr,@GrazieMelchior,graziella.bourges,,"54, Quai de Léon 29800 Landerneau"
+PA719372,M.,Kasbarian,Guillaume,Ensemble pour la République,EPR,Eure-et-Loir,28,1,Guillaume.Kasbarian@assemblee-nationale.fr,@guillaumekasba,guillaumekasba,guillaumekasbarian.fr,"5, Boulevard Maurice Viollette 28000 Chartres"
+PA719388,Mme,Le Meur,Annaïg,Ensemble pour la République,EPR,Finistère,29,1,Annaig.LeMeur@assemblee-nationale.fr,@AnnaigLeMeur_AN,annaiglemeurdeputee,,"5 Bis, Venelle de Kergos 29000 Quimper"
+PA719404,M.,Le Gac,Didier,Ensemble pour la République,EPR,Finistère,29,3,Didier.LeGac@assemblee-nationale.fr,@didierlegac,Didier Le Gac,didierlegac.bzh,"11, Rue de Kerzouar BP 30089 29290 Saint-Renan"
+PA719412,Mme,Le Feur,Sandrine,Ensemble pour la République,EPR,Finistère,29,4,Sandrine.LeFeur@assemblee-nationale.fr,@SandrineLeFeur,sandrine.l.f,www.sandrine-lefeur.fr,"31, Place des Otages 29600 MORLAIX"
+PA719436,M.,Meizonnet,Nicolas,Rassemblement National,RN,Gard,30,2,nicolas.meizonnet@assemblee-nationale.fr,@NMeizonnet,NMeizonnet,www.meizonnet.fr,"160, rue Victor Hugo résidence Alegria – appt 10 30600 Vauvert"
+PA719472,M.,Cazeneuve,Jean-René,Ensemble pour la République,EPR,Gers,32,1,Jean-Rene.Cazeneuve@assemblee-nationale.fr,@jrcazeneuve,jeanrenecazeneuve,jrcazeneuve.fr,"7, Rue d'Etigny 32000 Auch"
+PA719512,Mme,Vignon,Corinne,Ensemble pour la République,EPR,Haute-Garonne,31,3,Corinne.Vignon@assemblee-nationale.fr,@corinnevignon,CorinneVignonDeputee,www.corinnevignon.fr,"12 bis, Chemin Mal Clabel 31500 TOULOUSE"
+PA719528,M.,Portarrieu,Jean-François,Horizons & Indépendants,HOR,Haute-Garonne,31,5,Jean-Francois.Portarrieu@assemblee-nationale.fr,@jfportarrieu,,portarrieu.fr,"2 Bis, Rue des Marronniers 31140 Fonbeauzard"
+PA719550,Mme,Tanguy,Liliana,Ensemble pour la République,EPR,Finistère,29,7,Liliana.Tanguy@assemblee-nationale.fr,@lilianatanguy,liliana.tanguy.9,www.lilianetanguy.en-marche.fr,"12, Rue du Prat Résidence Pierre Pichavant 29120 Pont l'Abbé"
+PA719558,M.,Balanant,Erwan,Les Démocrates,DEM,Finistère,29,8,Erwan.Balanant@assemblee-nationale.fr,@erwanbalanant,erwanbalanant,,"40, Rue Bayard 29900 Concarneau"
+PA719578,M.,Prud'homme,Loïc,La France insoumise - Nouveau Front Populaire,LFI-NFP,Gironde,33,3,Loic.Prudhomme@assemblee-nationale.fr,@PrudhommeLoic,LoicPrudhommeFI,www.loicprudhomme.fr,"281, Route de Toulouse 33140 Villenave-d'Ornon"
+PA719632,Mme,Panonacle,Sophie,Ensemble pour la République,EPR,Gironde,33,8,Sophie.Panonacle@assemblee-nationale.fr,@SoPanonacle,Sophie Panonacle,sophie-panonacle.fr,"14, Boulevard du Général Leclerc 33120 Arcachon"
+PA719640,Mme,Mette,Sophie,Les Démocrates,DEM,Gironde,33,9,Sophie.Mette@assemblee-nationale.fr,@SophieMette1,sophiemettedeputee,sophie-mette.com,"16, Résidence les Tilleuls 33430 Bazas"
+PA719756,Mme,Le Nabour,Christine,Ensemble pour la République,EPR,Ille-et-Vilaine,35,5,Christine.lenabour@assemblee-nationale.fr,@ChrisCloarec,ChristineCloarecLaRem,www.christinelenabour.fr,
+PA719778,M.,Jolivet,François,Horizons & Indépendants,HOR,Indre,36,1,Francois.Jolivet@assemblee-nationale.fr,@FJolivet36,FJIndre,francois-jolivet.fr,
+PA719798,M.,Labaronne,Daniel,Ensemble pour la République,EPR,Indre-et-Loire,37,2,Daniel.Labaronne@assemblee-nationale.fr,@LabaronneDaniel,danielabaronne2024,,
+PA719822,Mme,Thillaye,Sabine,Les Démocrates,DEM,Indre-et-Loire,37,5,Sabine.Thillaye@assemblee-nationale.fr,@SabineThillaye,SabineThillaye,sabinethillaye.fr,"175 Bis, Boulevard Charles de Gaulle 37540 Saint-Cyr-sur-Loire"
+PA719890,Mme,Brulebois,Danielle,Ensemble pour la République,EPR,Jura,39,1,Danielle.Brulebois@assemblee-nationale.fr,@dbrulebois,daniellebrulebois,,"22, Rue des Écoles 39000 Lons-Le-Saunier"
+PA719914,Mme,Darrieussecq,Geneviève,Les Démocrates,DEM,Landes,40,1,genevieve.darrieussecq@assemblee-nationale.fr,@Darrieussecq,genevieve.darrieussecq,www.darrieussecq.net,"8, Rue Porte d'Aire 1er étage 40000 Mont de marsan"
+PA719922,M.,Causse,Lionel,Ensemble pour la République,EPR,Landes,40,2,Lionel.Causse@assemblee-nationale.fr,@DeputeCausse,lionelcausse2017,www.lionel-causse.fr,"50, Avenue Georges Clémenceau Résidence le Clos d'Acqs 40100 Dax"
+PA719930,M.,Vallaud,Boris,Socialistes et apparentés,SOC,Landes,40,3,Boris.Vallaud@assemblee-nationale.fr,@borisvallaud,,,"11, Place de Verdun 40500 Saint-Sever"
+PA719938,M.,Fesneau,Marc,Les Démocrates,DEM,Loir-et-Cher,41,1,marc.fesneau@assemblee-nationale.fr,,,,
+PA719968,Mme,Bonnet,Sylvie,Droite Républicaine,DR,Loire,42,4,sylvie.bonnet@assemblee-nationale.fr,,,,"3, Avenue Grégoire Chapoton 42170 Saint-Just-Saint-Rambert"
+PA720022,M.,Lauzzana,Michel,Ensemble pour la République,EPR,Lot-et-Garonne,47,1,Michel.Lauzzana@assemblee-nationale.fr,@lauzzanamichel,Michel.Lauzzana47,,"2, Rue Jeanne d'Arc 47000 Agen"
+PA720038,Mme,Josso,Sandrine,Les Démocrates,DEM,Loire-Atlantique,44,7,Sandrine.Josso@assemblee-nationale.fr,@sandrinejossoan,Sandrinejosso2017,,
+PA720066,Mme,Rist,Stéphanie,Ensemble pour la République,EPR,Loiret,45,1,Stephanie.Rist@assemblee-nationale.fr,@stephanie_rist,StephanieRistDeputee,stephanierist.fr/,"12, Place Clovis 45750 Saint-Pryvé-Saint-Mesmin"
+PA720092,M.,Ramos,Richard,Les Démocrates,DEM,Loiret,45,6,Richard.Ramos@assemblee-nationale.fr,@_richardramos,profile.php?id=100000377607739,,"19, Rue de la République 45000 Orléans"
+PA720100,M.,Pradié,Aurélien,Non inscrit,NI,Lot,46,1,Aurelien.Pradie@assemblee-nationale.fr,@AurelienPradie,aurelien.pradie,www.aurelienpradie.fr,"93, Rue Caviole 46000 Cahors"
+PA720138,Mme,Saint-Paul,Laetitia,Horizons & Indépendants,HOR,Maine-et-Loire,49,4,Laetitia.Saint-Paul@assemblee-nationale.fr,@l_saintpaul,laetitiasaintpaulrem,www.laetitia-saint-paul.fr,
+PA720146,M.,Masséglia,Denis,Ensemble pour la République,EPR,Maine-et-Loire,49,5,Denis.Masseglia@assemblee-nationale.fr,@denis_Masseglia,DenisMasseglia49,,"25, Boulevard Gustave Richard 49300 Cholet"
+PA720154,Mme,Dubré-Chirat,Nicole,Ensemble pour la République,EPR,Maine-et-Loire,49,6,Nicole.Dubre-Chirat@assemblee-nationale.fr,@NicoleDubre17,nicoledubrechirat,nicole-dubre-chirat.fr,"19, Rue Chateaugontier 49100 Angers"
+PA720162,M.,Bolo,Philippe,Les Démocrates,DEM,Maine-et-Loire,49,7,Philippe.Bolo@assemblee-nationale.fr,@phbolo,philippe.bolo.7,www.philippe-bolo.fr,"17, Place du docteur Bichon 49100 Angers"
+PA720190,M.,Sorre,Bertrand,Ensemble pour la République,EPR,Manche,50,2,Bertrand.Sorre@assemblee-nationale.fr,@BertrandSorre,Bertrand SORRE Député de la Manche,,"1768, Avenue des Matignon 50400 Granville"
+PA720230,Mme,Magnier,Lise,Horizons & Indépendants,HOR,Marne,51,4,Lise.Magnier@assemblee-nationale.fr,@lise_magnier,lisemagniermarne,,"5 Ter, Rue Léon Bourgeois 51000 Châlons-en-Champagne"
+PA720256,Mme,Bannier,Géraldine,Les Démocrates,DEM,Mayenne,53,2,Geraldine.Bannier@assemblee-nationale.fr,@Bannier_G,geraldine.bannier.1,www.geraldinebannier.fr,"3, Place Paul Doumer 53200 Château-Gontier-sur-Mayenne"
+PA720334,M.,Pahun,Jimmy,Les Démocrates,DEM,Morbihan,56,2,Jimmy.Pahun@assemblee-nationale.fr,@jimmypahun,jm.pahun,jimmypahun.fr,"25, Rue du Port 56570 Locmiquélic"
+PA720342,Mme,Le Peih,Nicole,Ensemble pour la République,EPR,Morbihan,56,3,Nicole.LePeih@assemblee-nationale.fr,@NicoleLePeih,NicoleLePeih5603,www.nicolelepeih.bzh,"70-74, Zone de Kermestre 56150 Baud"
+PA720354,M.,Jacques,Jean-Michel,Ensemble pour la République,EPR,Morbihan,56,6,Jean-Michel.Jacques@assemblee-nationale.fr,@J_M_Jacques,jm.jacques.bzh,jeanmicheljacques.fr,"2, Quai du Pont-Neuf 56700 Hennebont"
+PA720362,M.,Belhaddad,Belkhir,Ensemble pour la République,EPR,Moselle,57,1,Belkhir.Belhaddad@assemblee-nationale.fr,@b_belhaddad,belhaddadbelkhir,belkhirbelhaddad.fr/,"8, Place Saint-Martin 57000 Metz"
+PA720370,M.,Mendes,Ludovic,Ensemble pour la République,EPR,Moselle,57,2,Ludovic.Mendes@assemblee-nationale.fr,@LudovicMDS,Ludovic Mendes Député,www.ludovicmendes.fr,"7, Rue du Lancieu 57000 Metz"
+PA720386,M.,Di Filippo,Fabien,Droite Républicaine,DR,Moselle,57,4,Fabien.DiFilippo@assemblee-nationale.fr,@FabienDiFilippo,DiFilippoFabien,,"16, Rue de la gare 57400 Sarrebourg"
+PA720430,M.,Bernalicis,Ugo,La France insoumise - Nouveau Front Populaire,LFI-NFP,Nord,59,2,Ugo.Bernalicis@assemblee-nationale.fr,@ugobernalicis,ugobernalicis,www.ugobernalicis.fr,"70, Rue Faidherbe 59260 HELLEMMES"
+PA720446,Mme,Liso,Brigitte,Ensemble pour la République,EPR,Nord,59,4,Brigitte.Liso@assemblee-nationale.fr,@brigitte_liso,brigitteliso,,
+PA720468,M.,Chenu,Sébastien,Rassemblement National,RN,Nord,59,19,Sebastien.Chenu@assemblee-nationale.fr,@sebchenu,chenu.sebastien,,"27, Rue Maréchal Leclerc 59220 Denain"
+PA720480,Mme,Parmentier-Lecocq,Charlotte,Horizons & Indépendants,HOR,Nord,59,6,Charlotte.Lecocq@assemblee-nationale.fr,@lecocqcharlotte,LECOCQCharlotte,charlotte-parmentier-lecocq.fr,"18, Rue de Roubaix 59249 Templeuve-en-Pévèle"
+PA720552,Mme,Rauch,Isabelle,Horizons & Indépendants,HOR,Moselle,57,9,Isabelle.Rauch@assemblee-nationale.fr,@IsabelleRauch,IsabelleRauchDeputee,www.isabelle-rauch-deputee.fr,
+PA720560,Mme,Goulet,Perrine,Les Démocrates,DEM,Nièvre,58,1,Perrine.Goulet@assemblee-nationale.fr,@perrinegoulet,perrinegouletDEM,perrinegoulet.fr,"31, Rue Gambetta 58000 Nevers"
+PA720614,Mme,Le Pen,Marine,Rassemblement National,RN,Pas-de-Calais,62,11,Marine.LePen@assemblee-nationale.fr,@MLP_officiel,MarineLePen,,"99, Place Jean Jaurès 62110 Hénin-Beaumont"
+PA720644,M.,Nury,Jérôme,Droite Républicaine,DR,Orne,61,3,Jerome.Nury@assemblee-nationale.fr,@jeromenury,jerome.nury1,,"5, Boulevard du Midi 61800 Tinchebray Bocage"
+PA720668,M.,Blairy,Emmanuel,Rassemblement National,RN,Pas-de-Calais,62,1,emmanuel.blairy@assemblee-nationale.fr,@BlairyEmmanuel,,,
+PA720720,Mme,Poueyto,Josy,Les Démocrates,DEM,Pyrénées-Atlantiques,64,1,Josy.Poueyto@assemblee-nationale.fr,@josypoueyto,,,"14, Rue Jean-Jacques de Monaix 64010 Pau Cedex"
+PA720728,M.,Mattei,Jean-Paul,Les Démocrates,DEM,Pyrénées-Atlantiques,64,2,Jean-Paul.Mattei@assemblee-nationale.fr,@jp_mattei,mattei64,,"22, Avenue du Général Leclerc 64000 Pau"
+PA720822,M.,Bilde,Bruno,Rassemblement National,RN,Pas-de-Calais,62,12,Bruno.Bilde@assemblee-nationale.fr,@BrunoBilde,Bruno Bilde,,"24, Rue Roger Salengro 62160 Bully-les-Mines"
+PA720838,Mme,Bourouaha,Soumya,Gauche Démocrate et Républicaine,GDR,Seine-Saint-Denis,93,4,soumya.bourouaha@assemblee-nationale.fr,@S_Bourouaha,Soumya Bourouaha,,"38, Avenue Paul Vaillant Couturier 93240 STAINS"
+PA720846,M.,Lachaud,Bastien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,6,Bastien.Lachaud@assemblee-nationale.fr,@lachaudb,lachaudb,bastienlachaud.fr/,"10, Avenue de la République 93300 Aubervilliers"
+PA720892,Mme,Panot,Mathilde,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-de-Marne,94,10,Mathilde.Panot@assemblee-nationale.fr,@mathildepanot,MathildePanotFI,,"01, Promenée du Liégat 94200 Ivry sur Seine"
+PA720908,Mme,Moutchou,Naïma,Horizons & Indépendants,HOR,Val-d'oise,95,4,Naima.Moutchou@assemblee-nationale.fr,,NMoutchou,,
+PA720952,M.,Taché,Aurélien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-d'oise,95,10,Aurelien.Tache@assemblee-nationale.fr,@Aurelientache,Aurelien Taché-Député de la 10e circonscription du Val d'Oise,aurelien-tache.fr,
+PA720960,M.,Serva,Olivier,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Guadeloupe,971,1,Olivier.Serva@assemblee-nationale.fr,@olivier_serva,Olivier-SERVA-407236749324296,www.olivierserva.fr,Rue Abare Providence 97139 Les Abymes
+PA720976,M.,Mathiasin,Max,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Guadeloupe,971,3,Max.Mathiasin@assemblee-nationale.fr,@MaxMathiasin,Deputedeguadeloupe,,La Rocade des Citées unies Bourg 97115 Sainte-Rose
+PA720992,M.,William,Jiovanny,Socialistes et apparentés,SOC,Martinique,972,1,jiovanny.william@assemblee-nationale.fr,@WilliamJiovanny,,,"4, Rue Henri Hauze 97231 Le Robert"
+PA721004,Mme,Lakrafi,Amélia,Ensemble pour la République,EPR,Français établis hors de France,99,10,amelia.lakrafi@assemblee-nationale.fr,@amelia_lkf,Amal Amélia Lakrafi,amelialakrafi.fr,
+PA721024,Mme,Genetet,Anne,Ensemble pour la République,EPR,Français établis hors de France,99,11,Anne.Genetet@assemblee-nationale.fr,@AGenetet,Anne Genetet - Députée,www.annegenetet.fr,
+PA721062,M.,Ratenon,Jean-Hugues,La France insoumise - Nouveau Front Populaire,LFI-NFP,Réunion,974,5,Jean-Hugues.Ratenon@assemblee-nationale.fr,@DeputeRatenon,Depute.Ratenon,,"13, Cité Curiale 97470 Saint-Benoît"
+PA721110,Mme,Sanquer,Nicole,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Polynésie française,987,2,nicole.sanquer@assemblee-nationale.fr,,nicolesanquerfareata,, BP 11511 98709 Mahina
+PA721134,M.,Lescure,Roland,Ensemble pour la République,EPR,Français établis hors de France,99,1,roland.lescure@assemblee-nationale.fr,@rolandlescure,RolandLescure,rolandlescure.fr,
+PA721158,M.,Anglade,Pieyre-Alexandre,Ensemble pour la République,EPR,Français établis hors de France,99,4,Pieyre-Alexandre.Anglade@assemblee-nationale.fr,@PA_Anglade,PAAnglade,,"35, Square de Meeus 1050 Ixelles"
+PA721170,M.,Vojetta,Stéphane,Ensemble pour la République,EPR,Français établis hors de France,99,5,stephane.vojetta@assemblee-nationale.fr,@StephaneVojetta,stephanevojettaofficiel,stephane-vojetta.com,
+PA721182,M.,Petit,Frédéric,Les Démocrates,DEM,Français établis hors de France,99,7,Frederic.Petit@assemblee-nationale.fr,@fpetitAN,fpetitAN,frederic-petit.eu,
+PA721202,M.,Coquerel,Éric,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,1,Eric.Coquerel@assemblee-nationale.fr,@ericcoquerel,eric.coquerel.1,,
+PA721210,M.,Corbière,Alexis,Écologiste et Social,ECOS,Seine-Saint-Denis,93,7,Alexis.Corbiere@assemblee-nationale.fr,@alexiscorbiere,Alexiscorbiere,www.alexis-corbiere.com,"86, Avenue Pasteur 93100 Montreuil"
+PA721234,Mme,Petit,Maud,Les Démocrates,DEM,Val-de-Marne,94,4,Maud.Petit@assemblee-nationale.fr,@MaudPetit_AN94,Maud.Petit.off,www.maudpetit2017.fr,
+PA721270,M.,Peu,Stéphane,Gauche Démocrate et Républicaine,GDR,Seine-Saint-Denis,93,2,Stephane.Peu@assemblee-nationale.fr,@stephane1peu,stephanepeu,www.stephanepeu.fr,"121, Rue Gabriel Péri 93200 Saint-Denis"
+PA721296,M.,Gouffier Valente,Guillaume,Ensemble pour la République,EPR,Val-de-Marne,94,6,guillaume.gouffier-valente@assemblee-nationale.fr,@G_GouffierVal,GouffierChaLegislatives,guillaume.gouffier-cha.fr,"76, Avenue de la République 94300 Vincennes"
+PA721314,M.,Schellenberger,Raphaël,Non inscrit,NI,Haut-Rhin,68,4,Raphael.Schellenberger@assemblee-nationale.fr,@RSCactu,SchellenbergerR,www.raphael-schellenberger.fr,"8, Rue James Barbier 68700 Cernay"
+PA721336,Mme,Brocard,Blandine,Les Démocrates,DEM,Rhône,69,5,Blandine.Brocard@assemblee-nationale.fr,@bbrocard,bbrocard,www.blandinebrocard.com,
+PA721410,Mme,Bonnivard,Émilie,Droite Républicaine,DR,Savoie,73,3,Emilie.Bonnivard@assemblee-nationale.fr,@BonnivardE,ebonnivard,emilie-bonnivard.fr,"38, Place de la Sous-Préfecture 73300 Saint-Jean-de-Maurienne"
+PA721426,Mme,Riotton,Véronique,Ensemble pour la République,EPR,Haute-Savoie,74,1,Veronique.Riotton@assemblee-nationale.fr,@V_Riotton,veronique.riotton.2017,riotton.fr,"8, Avenue d'Aléry 74000 Annecy"
+PA721442,Mme,Petex,Christelle,Droite Républicaine,DR,Haute-Savoie,74,3,christelle.petex-levet@assemblee-nationale.fr,@ChristellePetex,ChristellePetex,christelle-petexlevet.fr,"27, Place de Stockach 74800 La Roche-sur-Foron"
+PA721458,M.,Roseren,Xavier,Horizons & Indépendants,HOR,Haute-Savoie,74,6,Xavier.Roseren@assemblee-nationale.fr,@XavierRoseren,xroseren,roseren.com,"84, Avenue de Genève 74700 Salanches"
+PA721474,M.,Viry,Stéphane,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Vosges,88,1,Stephane.Viry@assemblee-nationale.fr,@ViryStephane,stephane.viry.10,,"29, Avenue Gambetta 88000 Epinal"
+PA721486,M.,Naegelen,Christophe,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Vosges,88,3,Christophe.Naegelen@assemblee-nationale.fr,@naegelenchris,ChristopheNaegelenVosges,www.naegelen.fr,"78 Quater, Boulevard Thiers 88200 Remiremont"
+PA721584,M.,Terlier,Jean,Ensemble pour la République,EPR,Tarn,81,3,Jean.Terlier@assemblee-nationale.fr,@JeanTerlier,JeanTerlier,,
+PA721750,Mme,Calvez,Céline,Ensemble pour la République,EPR,Hauts-de-Seine,92,5,Celine.Calvez@assemblee-nationale.fr,@celinecalvez,CelineCalvez,celine-calvez.fr,"34, Rue Henri Barbusse 92110 Clichy"
+PA721764,Mme,Grégoire,Olivia,Ensemble pour la République,EPR,Paris,75,12,olivia.gregoire@assemblee-nationale.fr,@oliviagregoire,oliviagregoire,www.oliviagregoire.fr,"55, Rue Rouelle 75015 Paris"
+PA721816,M.,Boucard,Ian,Droite Républicaine,DR,Territoire de Belfort,90,1,Ian.Boucard@assemblee-nationale.fr,@IanBoucard,IBoucard90,,"4, Rue Georges Clemenceau 90000 Belfort"
+PA721836,M.,Barrot,Jean-Noël,Les Démocrates,DEM,Yvelines,78,2,jean-noel.barrot@assemblee-nationale.fr,@jnbarrot,jnbarrot78,www.jeannoelbarrot.fr,"6, Rue des États généraux 78000 Versailles"
+PA721844,Mme,Piron,Béatrice,Horizons & Indépendants,HOR,Yvelines,78,3,Beatrice.Piron@assemblee-nationale.fr,@beatricepiron,BPiron78,www.beatricepiron.fr,"6, Parc des fontenelles 78870 Bailly"
+PA721852,Mme,Lebec,Marie,Ensemble pour la République,EPR,Yvelines,78,4,Marie.Lebec@assemblee-nationale.fr,@marielebec78,marielebec2022,,
+PA721896,Mme,Faucillon,Elsa,Gauche Démocrate et Républicaine,GDR,Hauts-de-Seine,92,1,Elsa.Faucillon@assemblee-nationale.fr,@elsafaucillon,elsafaucillondeputee,www.elsa-faucillon.fr,
+PA721908,Mme,Braun-Pivet,Yaël,Ensemble pour la République,EPR,Yvelines,78,5,Yael.Braun-Pivet@assemblee-nationale.fr,@YaelBRAUNPIVET,yaelBraunPivet,,
+PA721916,Mme,Pouzyreff,Natalia,Ensemble pour la République,EPR,Yvelines,78,6,Natalia.Pouzyreff@assemblee-nationale.fr,@npouzyreff78,npouzyreff,www.nataliapouzyreff.fr,"30 bis, Rue du vieil abreuvoir 78100 Saint Germain en Laye"
+PA721932,Mme,Lorho,Marie-France,Rassemblement National,RN,Vaucluse,84,4,Marie-France.Lorho@assemblee-nationale.fr,@FranceLorho,mariefrancelorho,mariefrancelorho.fr,"8, Cours Aristide Briand 84100 Orange"
+PA721960,Mme,Obono,Danièle,La France insoumise - Nouveau Front Populaire,LFI-NFP,Paris,75,17,Daniele.Obono@assemblee-nationale.fr,@Deputee_Obono,@DeputeeObono,deputee-obono.fr,"12, Rue Pajol 75018 paris"
+PA721984,M.,Latombe,Philippe,Les Démocrates,DEM,Vendée,85,1,Philippe.Latombe@assemblee-nationale.fr,@platombe,platombe,,BP40008 85190 Aizenay
+PA722000,M.,Buchou,Stéphane,Ensemble pour la République,EPR,Vendée,85,3,Stephane.Buchou@assemblee-nationale.fr,@StephaneBuchou,Buchouassembleenationale,,"10, Rue de Saint-Jean 85690 Notre-Dame-de-Monts"
+PA722046,Mme,Bergé,Aurore,Ensemble pour la République,EPR,Yvelines,78,10,Aurore.Berge@assemblee-nationale.fr,@auroreberge,AuroreBergé,auroreberge.fr,"1, Rue de Clairefontaine 78120 Rambouillet"
+PA722070,M.,Henriet,Pierre,Horizons & Indépendants,HOR,Vendée,85,5,Pierre.Henriet@assemblee-nationale.fr,@HenrietPierre,pierre.henriet,www.pierrehenriet.fr,"15, Rue des Drapiers 85200 Fontenay-le-Comte"
+PA722102,Mme,Vidal,Annie,Ensemble pour la République,EPR,Seine-Maritime,76,2,Annie.Vidal@assemblee-nationale.fr,@Vidal7602,AnnieVidal76,,"77, Route de Paris 76240 Bonsecours"
+PA722134,M.,Fiévet,Jean-Marie,Ensemble pour la République,EPR,Deux-Sèvres,79,3,Jean-Marie.Fievet@assemblee-nationale.fr,@JeanMarieFIEVET,FIEVETJeanMarie,,"19, Rue de la Cave 79300 Bressuire"
+PA722142,M.,Ruffin,François,Écologiste et Social,ECOS,Somme,80,1,Francois.Ruffin@assemblee-nationale.fr,@Francois_Ruffin,FrancoisRuffin80,www.francoisruffin.fr,"90, Chaussée Saint-Pierre 80000 AMIENS"
+PA722150,M.,Houlié,Sacha,Non inscrit,NI,Vienne,86,2,Sacha.Houlie@assemblee-nationale.fr,@SachaHoulie,Sacha Houlié,www.sachahoulie.fr,"11, Place de France 86000 Poitiers"
+PA722162,M.,Turquois,Nicolas,Les Démocrates,DEM,Vienne,86,4,Nicolas.Turquois@assemblee-nationale.fr,@TurquoisNicolas,@TurquoisNicolas,www.nicolas-turquois.fr/, BP 30826 F 86108 Châtellerault Cedex
+PA722190,M.,Attal,Gabriel,Ensemble pour la République,EPR,Hauts-de-Seine,92,10,gabriel.attal@assemblee-nationale.fr,@GabrielAttal,,www.gabrielattal.fr,
+PA722252,Mme,Rixain,Marie-Pierre,Ensemble pour la République,EPR,Essonne,91,4,Marie-Pierre.Rixain@assemblee-nationale.fr,@RixainMP,RixainMP,,
+PA722284,M.,Fuchs,Bruno,Les Démocrates,DEM,Haut-Rhin,68,6,Bruno.Fuchs@assemblee-nationale.fr,@bruno_fuchs,BrunoFuchsHautRhin2017,bruno-fuchs.fr,"10, Rue de Mulhouse 68110 Illzach"
+PA722336,M.,Thiébaut,Vincent,Horizons & Indépendants,HOR,Bas-Rhin,67,9,Vincent.Thiebaut@assemblee-nationale.fr,@VincentThiebaut,VincentThiebaut,vincentthiebaut.fr/,"1, Place de Neubourg 67500 HAGUENAU"
+PA722358,M.,Gassilloud,Thomas,Ensemble pour la République,EPR,Rhône,69,10,Thomas.Gassilloud@assemblee-nationale.fr,@tgassilloud,ThomasGassilloud,www.gassilloud.fr,
+PA722366,M.,Fugit,Jean-Luc,Ensemble pour la République,EPR,Rhône,69,11,Jean-Luc.Fugit@assemblee-nationale.fr,@Jean_LucFUGIT,@jeanlucfugit,www.jeanlucfugit.fr,"3, Allée Marianne 69700 GIVORS"
+PA722374,M.,Isaac-Sibille,Cyrille,Les Démocrates,DEM,Rhône,69,12,Cyrille.Isaac-Sibille@assemblee-nationale.fr,@Cisaacsibille,c.isaacsibille,cyrille.isaac-sibille.fr,
+PA722382,M.,Dirx,Benjamin,Ensemble pour la République,EPR,Saône-et-Loire,71,1,Benjamin.Dirx@assemblee-nationale.fr,@BenjaminDirx,DirxBenjamin,,"16, Rue Lamartine 71000 Mâcon"
+PA722390,Mme,Corneloup,Josiane,Droite Républicaine,DR,Saône-et-Loire,71,2,Josiane.Corneloup@assemblee-nationale.fr,,Josiane-Corneloup-députée-de-Saône-et-Loire-138957700075590,josianecorneloup.fr,
+PA736201,Mme,Taillé-Polian,Sophie,Écologiste et Social,ECOS,Val-de-Marne,94,11,sophie.taille-polian@assemblee-nationale.fr,@STaillePolian,,,"16, Boulevard Paul Vaillant-Couturie 94800 Villejuif"
+PA757225,M.,Seo,Mikaele,Ensemble pour la République,EPR,Wallis-et-Futuna,986,1,mikaele.seo@assemblee-nationale.fr,@MikaeleSeo,Mikaele Seo,www.mikaele-seo.com,
+PA759832,Mme,Pannier-Runacher,Agnès,Ensemble pour la République,EPR,Pas-de-Calais,62,2,agnes.pannier-runacher@assemblee-nationale.fr,@AgnesRunacher,AgnesPannierR,,
+PA774954,Mme,Blin,Anne-Laure,Droite Républicaine,DR,Maine-et-Loire,49,3,anne-laure.blin@assemblee-nationale.fr,@annelaureblin,annelaureblin49,www.annelaureblin.fr,"71, Rue du Maréchal Leclerc 49250 Beaufort-en-Anjou"
+PA774958,M.,Leseul,Gérard,Socialistes et apparentés,SOC,Seine-Maritime,76,5,gerard.leseul@assemblee-nationale.fr,@LeseulG,gerard.leseul.1,,"6, Avenue Victor Hugo 76360 Barentin"
+PA774960,Mme,Santiago,Isabelle,Socialistes et apparentés,SOC,Val-de-Marne,94,9,isabelle.santiago@assemblee-nationale.fr,@isasantiago_94,isabelle.santiago.7374,,
+PA774962,Mme,Lebon,Karine,Gauche Démocrate et Républicaine,GDR,Réunion,974,2,karine.lebon@assemblee-nationale.fr,@KarineLebon,Karine.Lebon974,www.karinelebon.re,"17, Chaussée Royale 97460 Saint-Paul"
+PA791812,Mme,Chikirou,Sophia,La France insoumise - Nouveau Front Populaire,LFI-NFP,Paris,75,6,sophia.chikirou@assemblee-nationale.fr,@sochik75,,sophia-chikirou.fr,"81, Rue Jean-Pierre Timbaud 75011 Paris"
+PA791824,Mme,Legrain,Sarah,La France insoumise - Nouveau Front Populaire,LFI-NFP,Paris,75,16,sarah.legrain@assemblee-nationale.fr,@S_Legrain,LegrainSarah,sarahlegrain.fr,"133, Rue Haxo 75019 Paris"
+PA793094,M.,Ray,Nicolas,Droite Républicaine,DR,Allier,3,3,nicolas.ray@assemblee-nationale.fr,@NicolasRay03,raynicolas03,,"2, Rue du Casino 03200 Vichy"
+PA793102,M.,Girard,Christian,Rassemblement National,RN,Alpes-de-Haute-Provence,4,1,christian.girard@assemblee-nationale.fr,,,,"Rue Ferdinand de Lesseps La Croix du Sud Zone, ZI St-Christophe 04000 Dignes-les-Bains"
+PA793122,M.,Daubié,Romain,Les Démocrates,DEM,Ain,1,2,romain.daubie@assemblee-nationale.fr,@romaindaubie,romain.daubie,romain-daubie.fr,"77, Grande rue BP129 01120 MONTLUEL"
+PA793134,M.,Buisson,Jérôme,Rassemblement National,RN,Ain,1,4,jerome.buisson@assemblee-nationale.fr,@jerome_buisson,,,"1 Bis, Avenue Jean Jaurès 01000 Bourg-en-Bresse"
+PA793146,M.,Dragon,Nicolas,Rassemblement National,RN,Aisne,2,1,nicolas.dragon@assemblee-nationale.fr,@NicolasDragon,nicolasdragon,www.nicolasdragon.com,
+PA793158,M.,Beaurain,José,Rassemblement National,RN,Aisne,2,4,jose.beaurain@assemblee-nationale.fr,@beaurainjose,www.facebook.com/p/José-Beaurain-100082625055328/?_rdr,,"1 b, Boulevard Gambetta 02200 Soissons"
+PA793166,M.,Dessigny,Jocelyn,Rassemblement National,RN,Aisne,2,5,jocelyn.dessigny@assemblee-nationale.fr,@JocelynDessigny,jocelyn.dessigny2984@an.fr,,
+PA793174,M.,Monnet,Yannick,Gauche Démocrate et Républicaine,GDR,Allier,3,1,yannick.monnet@assemblee-nationale.fr,@YannickMonnet3,,,"52, Boulevard Ledru Rollin 03000 Moulins"
+PA793182,M.,Bovet,Jorys,Rassemblement National,RN,Allier,3,2,jorys.bovet@assemblee-nationale.fr,@JorysB3,jorys.bovet,,"5, Rue des Forges 03100 Montluçon"
+PA793210,M.,Panifous,Laurent,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Ariège,9,2,laurent.panifous@assemblee-nationale.fr,,laurentpanifous2022,,"11, Place de la Mairie 09130 Le Fossat"
+PA793218,M.,Guitton,Jordan,Rassemblement National,RN,Aube,10,1,jordan.guitton@assemblee-nationale.fr,@jordan_guitton,jordanguittonRN,,
+PA793230,Mme,Ranc,Angélique,Rassemblement National,RN,Aube,10,3,angelique.ranc@assemblee-nationale.fr,@angelique_ranc,rancangelique,,"39, Rue Marie Pascale Ragueneau 10000 Troyes"
+PA793238,M.,Barthès,Christophe,Rassemblement National,RN,Aude,11,1,christophe.barthes@assemblee-nationale.fr,@BarthesChristop,Christophe Barthès,,"12, Rue Victor Hugo 11000 Carcassonne"
+PA793246,M.,Falcon,Frédéric,Rassemblement National,RN,Aude,11,2,frederic.falcon@assemblee-nationale.fr,@FalconFrederic,,falcondepute.fr,"5, Quai Vallière 11100 Narbonne"
+PA793254,M.,Rancoule,Julien,Rassemblement National,RN,Aude,11,3,julien.rancoule@assemblee-nationale.fr,@J_Rancoule,JRancouleRN,,"7, Rue de l'Officialité 11300 Limoux"
+PA793262,M.,Alexandre,Laurent,La France insoumise - Nouveau Front Populaire,LFI-NFP,Aveyron,12,2,laurent.alexandre@assemblee-nationale.fr,@LauAlexandre12,LaurentAlexandre2022,www.laurent-alexandre.fr,"7, Rue Clemenceau 12300 Decazeville"
+PA793270,M.,Rousset,Jean-François,Ensemble pour la République,EPR,Aveyron,12,3,jean-francois.rousset@assemblee-nationale.fr,@JF_Rousset2,jeanfrancois.rousset.3,,"8, Place du Mandarous 12100 Millau"
+PA793290,Mme,Lelouis,Gisèle,Rassemblement National,RN,Bouches-du-Rhône,13,3,gisele.lelouis@assemblee-nationale.fr,@gisele_lelouis,gisele.lelouis,giselelelouis.fr,"73, Alphonse Daudet 13013 Marseille"
+PA793298,M.,Tivoli,Lionel,Rassemblement National,RN,Alpes-Maritimes,6,2,lionel.tivoli@assemblee-nationale.fr,@Lionel_Tivoli,LionelTivoli,,
+PA793314,Mme,Masson,Alexandra,Rassemblement National,RN,Alpes-Maritimes,6,4,alexandra.masson@assemblee-nationale.fr,@A_Masson06,,www.alexandramasson.fr,"7, Rue Magenta 06500 Menton"
+PA793322,Mme,D'Intorni,Christelle,UDR,UDR,Alpes-Maritimes,6,5,christelle.dintorni@assemblee-nationale.fr,@C_Dintorni,christelle.dintorni,christelle-dintorni.fr,"474, Boulevard du Mercantour 06200 Nice"
+PA793330,M.,Masson,Bryan,Rassemblement National,RN,Alpes-Maritimes,6,6,bryan.masson@assemblee-nationale.fr,@MassonBryan,,,"55, Square Louis Benes 06700 Saint-Laurent du Var"
+PA793342,Mme,Martin,Alexandra,Droite Républicaine,DR,Alpes-Maritimes,6,8,alexandra.martin@assemblee-nationale.fr,@MartinAlex06,,,
+PA793354,Mme,Mélin,Joëlle,Rassemblement National,RN,Bouches-du-Rhône,13,9,joelle.melin@assemblee-nationale.fr,@JoelleMelinRN,,joellemelin.com,"35, Avenue de Lascours Parc d'activités de Napollon 13400 Aubagne"
+PA793362,M.,Gonzalez,José,Rassemblement National,RN,Bouches-du-Rhône,13,10,jose.gonzalez@assemblee-nationale.fr,@Jose_GonzalezFN,José Gonzalez (conseiller regional),,Impasse Carvin 13190 Allauch
+PA793374,M.,Baubry,Romain,Rassemblement National,RN,Bouches-du-Rhône,13,15,romain.baubry@assemblee-nationale.fr,@BaubryR,,www.romainbaubry.fr,"29, Avenue Jean Jaurès 13560 Sénas"
+PA793382,M.,Taché de la Pagerie,Emmanuel,Rassemblement National,RN,Bouches-du-Rhône,13,16,emmanuel.tachedelapagerie@assemblee-nationale.fr,,emmanuel.delapagerie,,"5, Boulevard Georges Clemenceau 13200 Arles"
+PA793394,M.,Delaporte,Arthur,Socialistes et apparentés,SOC,Calvados,14,2,arthur.delaporte@assemblee-nationale.fr,@arthurdelaporte,ArthurDelaporteDepute,arthurdelaporte.fr,"17, Rue Paul Toutain 14000 Caen"
+PA793398,M.,Patrier-Leitus,Jérémie,Horizons & Indépendants,HOR,Calvados,14,3,jeremie.patrier-leitus@assemblee-nationale.fr,@JPatrierLeitus,,www.patrierleitus.fr,
+PA793432,M.,Allisio,Franck,Rassemblement National,RN,Bouches-du-Rhône,13,12,franck.allisio@assemblee-nationale.fr,@franckallisio,,,
+PA793444,M.,Bompard,Manuel,La France insoumise - Nouveau Front Populaire,LFI-NFP,Bouches-du-Rhône,13,4,manuel.bompard@assemblee-nationale.fr,@mbompard,mbompard,manuelbompard.fr/,"14, Rue Louis Astouin 13002 Marseille"
+PA793452,M.,Davi,Hendrik,Écologiste et Social,ECOS,Bouches-du-Rhône,13,5,hendrik.davi@assemblee-nationale.fr,@hendrik_davi,hdavi13,www.hendrikdavi.fr,"88, Rue Sainte-Cécile (angle rue du Berceau) 13005 Marseille"
+PA793464,M.,Delogu,Sébastien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Bouches-du-Rhône,13,7,sebastien.delogu@assemblee-nationale.fr,@sebastiendelogu,,,
+PA793508,M.,Brigand,Hubert,Droite Républicaine,DR,Côte-d'or,21,4,hubert.brigand@assemblee-nationale.fr,,,,"1, Place de la résistance 21400 Chatillon-sur-Seine"
+PA793520,M.,Cosson,Mickaël,Les Démocrates,DEM,Côtes-d'armor,22,1,mickael.cosson@assemblee-nationale.fr,,,,"17, Allée Marie Vaillant 22000 Saint-Brieuc"
+PA793532,Mme,Lepvraud,Murielle,La France insoumise - Nouveau Front Populaire,LFI-NFP,Côtes-d'armor,22,4,murielle.lepvraud@assemblee-nationale.fr,@MLepvraud,,,"2, Rue du Pot d'Argent 22200 Guingamp"
+PA793548,Mme,Colombier,Caroline,Rassemblement National,RN,Charente,16,3,caroline.colombier@assemblee-nationale.fr,@CColombier_RN,,,"2, Rue de l'Hôpital 16700 Ruffec"
+PA793572,M.,Plassard,Christophe,Horizons & Indépendants,HOR,Charente-Maritime,17,5,christophe.plassard@assemblee-nationale.fr,@cplassard,cplassard,christopheplassard.fr,"25, Rue du Marché B 17200 Royan"
+PA793592,Mme,Grangier,Géraldine,Rassemblement National,RN,Doubs,25,4,geraldine.grangier@assemblee-nationale.fr,@GrangierGe,Géraldine Grangier,,"3, Rue du Doubs 25400 Audincourt"
+PA793608,Mme,Levavasseur,Katiana,Rassemblement National,RN,Eure,27,2,katiana.levavasseur@assemblee-nationale.fr,,katianalevavasseur,,
+PA793616,M.,Mauvieux,Kévin,Rassemblement National,RN,Eure,27,3,kevin.mauvieux@assemblee-nationale.fr,@MauvieuxKevin,KevinMauvieuxPagePolitique,,"15, Place Louis Gillain 27500 Pont-Audemer"
+PA793624,M.,Brun,Philippe,Socialistes et apparentés,SOC,Eure,27,4,philippe.brun@assemblee-nationale.fr,@p_brun,philippe.d.brown,philippe-brun.fr,"6, Rue du Sornier 27400 Louviers"
+PA793632,M.,Houssin,Timothée,Rassemblement National,RN,Eure,27,5,timothee.houssin@assemblee-nationale.fr,@T_Houssin,100014070544362,,"6, Avenue de la République 27700 Les Andelys"
+PA793656,Mme,Pollet,Lisette,Rassemblement National,RN,Drôme,26,2,lisette.pollet@assemblee-nationale.fr,@LisettePollet,,,"5, Avenue d'Aygu 26200 Montelimar"
+PA793664,Mme,Pochon,Marie,Écologiste et Social,ECOS,Drôme,26,3,marie.pochon@assemblee-nationale.fr,@mariepochon,mariepochondeputee,www.mariepochon.fr,"4, Rue du 8 mai 1945 26400 Crest"
+PA793672,Mme,Loir,Christine,Rassemblement National,RN,Eure,27,1,christine.loir@assemblee-nationale.fr,@ChristineLoirRN,,,"335, Rue Notre-Dame 27130 Verneuil d'Avre et d'Iton"
+PA793696,M.,Muller,Serge,Rassemblement National,RN,Dordogne,24,2,serge.muller@assemblee-nationale.fr,@Serge_Muller24,,,"47, Rue Bourbarraud 24100 Bergerac"
+PA793708,M.,Peytavie,Sébastien,Écologiste et Social,ECOS,Dordogne,24,4,sebastien.peytavie@assemblee-nationale.fr,@speytavie,,,
+PA793716,M.,Croizier,Laurent,Les Démocrates,DEM,Doubs,25,1,laurent.croizier@assemblee-nationale.fr,@CroizierLaurent,Laurent Croizier,www.laurentcroizier.fr,"5A, Rue Alfred de Vigny 25000 Besançon"
+PA793736,M.,Clouet,Hadrien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Haute-Garonne,31,1,hadrien.clouet@assemblee-nationale.fr,@HadrienClouet,,,"21, Rue de la Chaîne 31000 Toulouse"
+PA793744,Mme,Stambach-Terrenoir,Anne,La France insoumise - Nouveau Front Populaire,LFI-NFP,Haute-Garonne,31,2,anne.stambach-terrenoir@assemblee-nationale.fr,@Anne_Stambach,Anne-Stambach-Terrenoir-106633648813593,,"90, Avenue Yves Brunaud 31500 Toulouse"
+PA793756,M.,Piquemal,François,La France insoumise - Nouveau Front Populaire,LFI-NFP,Haute-Garonne,31,4,francois.piquemal@assemblee-nationale.fr,@FraPiquemal,francoispiquemal31,francoispiquemal.fr/,"18, Place Roguet 31300 Toulouse"
+PA793772,M.,Bex,Christophe,La France insoumise - Nouveau Front Populaire,LFI-NFP,Haute-Garonne,31,7,christophe.bex@assemblee-nationale.fr,@ChristopheBex,avecchristophebex,,"13, Rue Saint-Jacques 31600 Muret"
+PA793780,Mme,Arrighi,Christine,Écologiste et Social,ECOS,Haute-Garonne,31,9,christine.arrighi@assemblee-nationale.fr,@ChArrighi,,www.christine-arrighi.fr,"7, Avenue de l'URSS 31400 Toulouse"
+PA793796,M.,Taupiac,David,Non inscrit,NI,Gers,32,2,david.taupiac@assemblee-nationale.fr,@davidtaupiac,david.taupiac,,"8, Rue des Armuriers 32100 Condom"
+PA793816,Mme,Thomin,Mélanie,Socialistes et apparentés,SOC,Finistère,29,6,melanie.thomin@assemblee-nationale.fr,@mel_thomin,MelanieThominAN,www.melaniethomin.bzh,"6, Route de Landerneau 29590 Le Faou"
+PA793832,M.,Gillet,Yoann,Rassemblement National,RN,Gard,30,1,yoann.gillet@assemblee-nationale.fr,@YoannGillet30,YoannGillet30,www.gillet-depute.fr,"17, Boulevard du Maréchal Foch 30300 Beaucaire"
+PA793844,Mme,Bordes,Pascale,Rassemblement National,RN,Gard,30,3,pascale.bordes@assemblee-nationale.fr,,,,"11, Boulevard Lacombe 30200 Bagnols-sur-Cèze"
+PA793852,M.,Meurin,Pierre,Rassemblement National,RN,Gard,30,4,pierre.meurin@assemblee-nationale.fr,@Meurin_P,meurinpierre,,
+PA793872,Mme,Oziol,Nathalie,La France insoumise - Nouveau Front Populaire,LFI-NFP,Hérault,34,2,nathalie.oziol@assemblee-nationale.fr,@NathalieOziol,,,"3, Boulevard Renouvier 34000 Montpellier"
+PA793892,Mme,Galzy,Stéphanie,Rassemblement National,RN,Hérault,34,5,stephanie.galzy@assemblee-nationale.fr,@GalzyStephanie,,,"4, Rue de l'audacieuse Bâtiment B, 1er étage 34480 Magalas"
+PA793904,M.,Lopez-Liguori,Aurélien,Rassemblement National,RN,Hérault,34,7,aurelien.lopezliguori@assemblee-nationale.fr,@lopezliguori,LopezLiguori,www.lopezliguori.fr,"5, Rue Romain Rolland 34200 Sète"
+PA793912,M.,Carrière,Sylvain,La France insoumise - Nouveau Front Populaire,LFI-NFP,Hérault,34,8,sylvain.carriere@assemblee-nationale.fr,@Sylv20CARRIERE,DeputeCarriere,,"23, Avenue Frédéric Mistral 34110 Frontignan"
+PA793928,Mme,Diaz,Edwige,Rassemblement National,RN,Gironde,33,11,edwige.diaz@assemblee-nationale.fr,@diaz_edwige,DiazEdwige,,
+PA793940,M.,Cazenave,Thomas,Ensemble pour la République,EPR,Gironde,33,1,thomas.cazenave@assemblee-nationale.fr,@T_Cazenave,t.cazenave33,,
+PA793948,M.,Thierry,Nicolas,Écologiste et Social,ECOS,Gironde,33,2,nicolas.thierry@assemblee-nationale.fr,@nthierry,NicolasThierry.NTNA,nicolasthierry.fr,
+PA793980,M.,Fournier,Charles,Écologiste et Social,ECOS,Indre-et-Loire,37,1,charles.fournier@assemblee-nationale.fr,@cfourniereelv,CharlesFournierTours,charlesfournier.fr,"12, Boulevard Heurteloup 37000 Tour"
+PA793992,M.,Alfandari,Henri,Horizons & Indépendants,HOR,Indre-et-Loire,37,3,henri.alfandari@assemblee-nationale.fr,@Henri_Alfandari,,,
+PA794008,Mme,Chatelain,Cyrielle,Écologiste et Social,ECOS,Isère,38,2,cyrielle.chatelain@assemblee-nationale.fr,@Cyrielle_Chtl,,,"17, Rue du maquis de l'Oisans 38130 Echirolles"
+PA794022,M.,Iordanoff,Jérémie,Écologiste et Social,ECOS,Isère,38,5,jeremie.iordanoff@assemblee-nationale.fr,@iordanoff,jeremie.iordanoff,jeremieiordanoff.fr,
+PA794030,M.,Jolly,Alexis,Rassemblement National,RN,Isère,38,6,alexis.jolly@assemblee-nationale.fr,@alexisjollyrn,alexis jolly,,"4, Place Bacchus 38630 Les Avenières-Veyrins-Thuellin"
+PA794038,M.,Neuder,Yannick,Droite Républicaine,DR,Isère,38,7,yannick.neuder@assemblee-nationale.fr,@yannickneuder,Yannick Neuder,www.yannickneuder.fr,"2, Place Rose Valland 38590 Saint-Etienne-de-Saint-Geoirs"
+PA794058,Mme,Gruet,Justine,Droite Républicaine,DR,Jura,39,3,justine.gruet@assemblee-nationale.fr,@JustineGruet,,,"15, Rue des Arènes 39100 Dole"
+PA794082,Mme,Hignet,Mathilde,La France insoumise - Nouveau Front Populaire,LFI-NFP,Ille-et-Vilaine,35,4,mathilde.hignet@assemblee-nationale.fr,@MathildeHignet,MathildeHignet,,"20 Bis, Avenue du Port 35480 Guipry-Messac"
+PA794094,M.,Bouloux,Mickaël,Socialistes et apparentés,SOC,Ille-et-Vilaine,35,8,mickael.bouloux@assemblee-nationale.fr,@MickaelBouloux,mickael.bouloux,mickaelbouloux.bzh/,"21, Quai Lamennais 35000 Rennes"
+PA794106,Mme,Taurinya,Andrée,La France insoumise - Nouveau Front Populaire,LFI-NFP,Loire,42,2,andree.taurinya@assemblee-nationale.fr,@AndreeTaurinya,,,"26, Rue de la Ville 42000 Saint-Étienne"
+PA794114,M.,Mandon,Emmanuel,Les Démocrates,DEM,Loire,42,3,emmanuel.mandon@assemblee-nationale.fr,@EmmanuelMandon,,emmanuelmandon42.fr,"18, Place Saint-Pierre 42400 Saint-Charmond"
+PA794118,M.,Vermorel-Marques,Antoine,Droite Républicaine,DR,Loire,42,5,antoine.vermorel@assemblee-nationale.fr,@antoinevermorel,,www.antoinevermorel.com,"50, Rue Robert Barathon 42370 Renaison"
+PA794130,M.,Kerbrat,Andy,La France insoumise - Nouveau Front Populaire,LFI-NFP,Loire-Atlantique,44,2,andy.kerbrat@assemblee-nationale.fr,@AndyKerbrat2022,,kerbrat2022.fr,"3, Rue Dugast Matifeux 44000 Nantes"
+PA794138,Mme,Amiot,Ségolène,La France insoumise - Nouveau Front Populaire,LFI-NFP,Loire-Atlantique,44,3,segolene.amiot@assemblee-nationale.fr,@SegoleneAmiot,SegoleneAmiot,,
+PA794146,Mme,Laernoes,Julie,Écologiste et Social,ECOS,Loire-Atlantique,44,4,julie.laernoes@assemblee-nationale.fr,@laernoes,JLaernoes,julielaernoes.eu,
+PA794154,M.,Raux,Jean-Claude,Écologiste et Social,ECOS,Loire-Atlantique,44,6,jean-claude.raux@assemblee-nationale.fr,@JeanClaudeRaux,JClaudeRaux,www.jeanclauderaux.fr,"8, Place de l'Église 44170 Abbaretz"
+PA794166,M.,Tavel,Matthias,La France insoumise - Nouveau Front Populaire,LFI-NFP,Loire-Atlantique,44,8,matthias.tavel@assemblee-nationale.fr,@MatthiasTavel,MatthiasTavelfr,www.matthiastavel.fr,"57, Boulevard Victor Hugo 44600 Saint-Nazaire"
+PA794178,M.,Taite,Jean-Pierre,Droite Républicaine,DR,Loire,42,6,jean-pierre.taite@assemblee-nationale.fr,@JPIerre_Taite,jeanpierre.taite,,
+PA794198,M.,Chudeau,Roger,Rassemblement National,RN,Loir-et-Cher,41,2,roger.chudeau@assemblee-nationale.fr,@ChudeauR,RogerChudeau4102,,"3, Rue du 8 mai 1945 41300 Salbris"
+PA794206,M.,Marion,Christophe,Ensemble pour la République,EPR,Loir-et-Cher,41,3,christophe.marion@assemblee-nationale.fr,@MarionDepute41,Christophemariondepute,www.christophemarion.net,"6, Rue Frincambault 41100 Vendôme"
+PA794234,M.,Gernigon,François,Horizons & Indépendants,HOR,Maine-et-Loire,49,1,francois.gernigon@assemblee-nationale.fr,@F_Gernigon,FrGernigon,www.francoisgernigon.fr,"2, Square Lafayette 49000 Angers"
+PA794270,Mme,Pic,Anna,Socialistes et apparentés,SOC,Manche,50,4,anna.pic@assemblee-nationale.fr,@PicAnna3,,,
+PA794278,M.,Albertini,Xavier,Horizons & Indépendants,HOR,Marne,51,1,xavier.albertini@assemblee-nationale.fr,@xavieralbertini,,xavieralbertini.fr,"69, Rue Camille Lenoir 51100 Reims"
+PA794322,M.,Ménagé,Thomas,Rassemblement National,RN,Loiret,45,4,thomas.menage@assemblee-nationale.fr,@Thomas_Mng,ThomasMenageCVDL,,"17, Rue Renée de France 45200 Montargis"
+PA794330,M.,Brosse,Anthony,Ensemble pour la République,EPR,Loiret,45,5,anthony.brosse@assemblee-nationale.fr,@BrosseAnthony,,www.anthonybrosse.fr,"48, Faubourg de Paris 45300 Pithiviers"
+PA794354,Mme,Laporte,Hélène,Rassemblement National,RN,Lot-et-Garonne,47,2,helene.laporte@assemblee-nationale.fr,@HeleneLaporteRN,,,"7 B, Rue Maréchal Foch 47400 Tonneins"
+PA794418,Mme,Goulet,Florence,Rassemblement National,RN,Meuse,55,2,florence.goulet@assemblee-nationale.fr,@X@FlorenceGoulet4,Facebook - Florence Goulet,,
+PA794426,Mme,Le Hénanff,Anne,Horizons & Indépendants,HOR,Morbihan,56,1,anne.lehenanff@assemblee-nationale.fr,@ALehenanff,@ALehenanff,www.annelehenanff.bzh,"21, Rue Thiers 56000 Vannes"
+PA794434,M.,Bentz,Christophe,Rassemblement National,RN,Haute-Marne,52,1,christophe.bentz@assemblee-nationale.fr,@BentzChristophe,ChristopheBentzDepute,www.christophebentz.fr,"21, Rue Jean Roussat 52200 Langres"
+PA794442,Mme,Robert-Dehault,Laurence,Rassemblement National,RN,Haute-Marne,52,2,laurence.robert-dehault@assemblee-nationale.fr,@LRDehault,,,"24, Rue de la Commune de Paris 52100 Saint-Dizier"
+PA794470,Mme,Gérard,Félicie,Horizons & Indépendants,HOR,Nord,59,7,felicie.gerard@assemblee-nationale.fr,@FelicieGerard,,,"16, Rue du Professeur Perrin 59170 Croix"
+PA794478,M.,Guiraud,David,La France insoumise - Nouveau Front Populaire,LFI-NFP,Nord,59,8,david.guiraud@assemblee-nationale.fr,@guiraudind,david.guiraud.50,,
+PA794486,Mme,Spillebout,Violette,Ensemble pour la République,EPR,Nord,59,9,violette.spillebout@assemblee-nationale.fr,@Vspillebout,Vspillebout,www.vspillebout.fr,
+PA794494,M.,Vicot,Roger,Socialistes et apparentés,SOC,Nord,59,11,roger.vicot@assemblee-nationale.fr,@rvicot,,,"781, Avenue de Dunkerque 59160 Lomme"
+PA794502,M.,Taverne,Michaël,Rassemblement National,RN,Nord,59,12,michael.taverne@assemblee-nationale.fr,@TaverneMichael,MichaelTaverne12,michaeltaverne2022.wordpress.com/,"15, Rue Roger Salengro 59620 Aulnoye-Aymeries"
+PA794530,M.,Marchio,Matthieu,Rassemblement National,RN,Nord,59,16,matthieu.marchio@assemblee-nationale.fr,@MarchioMatthieu,,,"19A, Rue Léon Gambetta 59490 Somain"
+PA794562,M.,Ballard,Philippe,Rassemblement National,RN,Oise,60,2,philippe.ballard@assemblee-nationale.fr,@BallardPhilippe,BallardPhilippe,www.philippeballard.fr,"56, Place Paul de la Folie 60390 Auneuil"
+PA794570,M.,Sabatou,Alexandre,Rassemblement National,RN,Oise,60,3,alexandre.sabatou@assemblee-nationale.fr,@ASabatou,SabatouAlexandre,www.alexandresabatou.fr,"170, Rue Henri Barbusse 60230 Chambly"
+PA794582,M.,Pfeffer,Kévin,Rassemblement National,RN,Moselle,57,6,kevin.pfeffer@assemblee-nationale.fr,@k_pfeffer,Kevin.Pfeffer57,,"70, Rue Nationale 57350 Stiring-Wendel"
+PA794590,M.,Loubet,Alexandre,Rassemblement National,RN,Moselle,57,7,alexandre.loubet@assemblee-nationale.fr,@alexandreloubet,alexandreloubet.off,,"38, Rue Hirschauer 57500 Saint-Avold"
+PA794598,M.,Jacobelli,Laurent,Rassemblement National,RN,Moselle,57,8,laurent.jacobelli@assemblee-nationale.fr,@ljacobelli,,,
+PA794658,M.,Fait,Philippe,Ensemble pour la République,EPR,Pas-de-Calais,62,4,philippe.fait@assemblee-nationale.fr,@jeanmarctellier,,,"Boulevard Lefèbvre, Centre AIFOR, 62630 Etaples sur mer"
+PA794670,Mme,Parmentier,Caroline,Rassemblement National,RN,Pas-de-Calais,62,9,caroline.parmentier@assemblee-nationale.fr,@Parmentier_RN,,,"77, Rue de l'Égalité 62400 Béthune"
+PA794678,M.,Frappé,Thierry,Rassemblement National,RN,Pas-de-Calais,62,10,thierry.frappe@assemblee-nationale.fr,@thierry_frappe,Thierry.Frappe,,"314, Rue Henri Cadot 62700 Bruay La Buissière"
+PA794686,Mme,Maximi,Marianne,La France insoumise - Nouveau Front Populaire,LFI-NFP,Puy-de-Dôme,63,1,marianne.maximi@assemblee-nationale.fr,@MarianneMaximi,,,"8, Rue de Billom 63000 Clermont-Ferrand"
+PA794702,Mme,Lingemann,Delphine,Les Démocrates,DEM,Puy-de-Dôme,63,4,delphine.lingemann@assemblee-nationale.fr,@DelphLingemann,DelphineLingemann,www.delphinelingemann.fr/,"4 Bis, Rue Champvoisin 63170 Aubière"
+PA794718,Mme,Engrand,Christine,Rassemblement National,RN,Pas-de-Calais,62,6,christine.engrand@assemblee-nationale.fr,@Cengrand_RN,,,"9, Place Foch 62340 Guines"
+PA794734,M.,Guiniot,Michel,Rassemblement National,RN,Oise,60,6,michel.guiniot@assemblee-nationale.fr,@MichelGuiniot,guiniotofficiel,,"11, Rue de Grèce 60400 Noyon"
+PA794762,Mme,Dogor-Such,Sandrine,Rassemblement National,RN,Pyrénées-Orientales,66,3,sandrine.dogor-such@assemblee-nationale.fr,@Sandrine_Dogor,,,"5, Rue Mailly 66000 Perpignan"
+PA794770,Mme,Martinez,Michèle,Rassemblement National,RN,Pyrénées-Orientales,66,4,michele.martinez@assemblee-nationale.fr,@MichleMartinez3,Michèle Martinez Députée de la 4ème circonscription des Pyrénées-Orientales,,"7, Route Nationale 66700 Argelès"
+PA794778,Mme,Regol,Sandra,Écologiste et Social,ECOS,Bas-Rhin,67,1,sandra.regol@assemblee-nationale.fr,@sandraregol,Sandra.Regol,,"6, Rue de Rosheim 67000 Strasbourg"
+PA794786,M.,Fernandes,Emmanuel,La France insoumise - Nouveau Front Populaire,LFI-NFP,Bas-Rhin,67,2,emmanuel.fernandes@assemblee-nationale.fr,@emmanfernandes,fernandesnupes2022,emmanuel-fernandes.fr,"11, Rue de la Canardière 67100 Strasbourg"
+PA794798,Mme,Buffet,Françoise,Ensemble pour la République,EPR,Bas-Rhin,67,4,francoise.buffet@assemblee-nationale.fr,,,francoisebuffet.fr,"4, Rue des Vosges 67205 Oberhausbergen"
+PA794802,M.,Sitzenstuhl,Charles,Ensemble pour la République,EPR,Bas-Rhin,67,5,charles.sitzenstuhl@assemblee-nationale.fr,@CSitzenstuhl,charles.sitzenstuhl,,"3, Boulevard du Maréchal Foch 67600 Sélestat"
+PA794810,Mme,Morel,Louise,Les Démocrates,DEM,Bas-Rhin,67,6,louise.morel@assemblee-nationale.fr,@LouiseMorel11,LouiseMorelAvecVous,,
+PA794830,M.,Ott,Hubert,Les Démocrates,DEM,Haut-Rhin,68,2,hubert.ott@assemblee-nationale.fr,@HubertOttAlsace,HubertOttAlsace,hubertott.alsace,"3, Rue des Champs 68124 Wintzenheim-Logelbach"
+PA794838,M.,Lemaire,Didier,Horizons & Indépendants,HOR,Haut-Rhin,68,3,didier.lemaire@assemblee-nationale.fr,@didier_lemaire_,Didier.Lemaire,,"7, Place Xavier Jourdain 68130 Altkirch"
+PA794854,M.,Echaniz,Inaki,Socialistes et apparentés,SOC,Pyrénées-Atlantiques,64,4,inaki.echaniz@assemblee-nationale.fr,@inakiechaniz,,www.inakiechaniz.fr/,"8, Avenue de la Gare 64400 Oloron-sainte-Marie"
+PA794870,Mme,Ferrer,Sylvie,La France insoumise - Nouveau Front Populaire,LFI-NFP,Hautes-Pyrénées,65,1,sylvie.ferrer@assemblee-nationale.fr,@FerrerSylvie11,SylvieFerrerInsoumise65,,"20, Place de Strasbourg 65200 Bagnères-de-Bigorre"
+PA794886,Mme,Blanc,Sophie,Rassemblement National,RN,Pyrénées-Orientales,66,1,sophie.blanc@assemblee-nationale.fr,@sblanc66000,id=100086482959837,,"158, Avenue Georges Guynemer 66100 Perpignan"
+PA794894,Mme,Sabatini,Anaïs,Rassemblement National,RN,Pyrénées-Orientales,66,2,anais.sabatini@assemblee-nationale.fr,@Anais_Sabatini,,,"441, Rue Aristide Berges 66000 Perpignan"
+PA794906,M.,Amard,Gabriel,La France insoumise - Nouveau Front Populaire,LFI-NFP,Rhône,69,6,gabriel.amard@assemblee-nationale.fr,@gabrielamard,GabrielAmard,gabrielamard.fr,"4, Avenue Salvador Allende 69100 Villeurbanne"
+PA794938,M.,Boumertit,Idir,La France insoumise - Nouveau Front Populaire,LFI-NFP,Rhône,69,14,idir.boumertit@assemblee-nationale.fr,@AltavoixBoumert,,,
+PA794946,M.,Villedieu,Antoine,Rassemblement National,RN,Haute-Saône,70,1,antoine.villedieu@assemblee-nationale.fr,@villedieu_a,Villedieu.a,,"17, Rue du Commandant Girardot 70000 Vesoul"
+PA794954,M.,Salmon,Emeric,Rassemblement National,RN,Haute-Saône,70,2,emeric.salmon@assemblee-nationale.fr,@EmericSalmon,emeric.salmonoff,,"5, Rue de la Font 70200 Lure"
+PA794982,Mme,Delpech,Julie,Ensemble pour la République,EPR,Sarthe,72,1,julie.delpech@assemblee-nationale.fr,@juliedelpech72,JulieDelpechSarthe,www.julie-delpech.avecvous.fr/,
+PA794994,M.,Portier,Alexandre,Droite Républicaine,DR,Rhône,69,9,alexandre.portier@assemblee-nationale.fr,@APortier69,alexandre.portier.73,alexandreportier.fr,"413, Philippe Héron 69400 Villefranche-sur-Saône"
+PA795010,Mme,Garin,Marie-Charlotte,Écologiste et Social,ECOS,Rhône,69,3,marie-charlotte.garin@assemblee-nationale.fr,@mc_garin,MarieCharlotte.Garin6903,mcgarin.fr,"38, Rue Rabelais 69003 Lyon"
+PA795026,Mme,Violland,Anne-Cécile,Horizons & Indépendants,HOR,Haute-Savoie,74,5,anne-cecile.violland@assemblee-nationale.fr,@annececilevio,Anne-Cécile VIOLLAND,,"16, Rue Vallon 74200 Thonon-les-Bains"
+PA795046,Mme,Yadan,Caroline,Ensemble pour la République,EPR,Français établis hors de France,99,8,caroline.yadan@assemblee-nationale.fr,@CarolineYADAN,,carolineyadan.fr,
+PA795050,Mme,Panosyan-Bouvet,Astrid,Ensemble pour la République,EPR,Paris,75,4,astrid.panosyan-bouvet@assemblee-nationale.fr,@astridpanosyan,astrid panosyan bouvet,,
+PA795076,Mme,Rousseau,Sandrine,Écologiste et Social,ECOS,Paris,75,9,sandrine.rousseau@assemblee-nationale.fr,@sandrousseau,,www.sandrinerousseau.fr,"11, Rue primatice 75013 Paris"
+PA795084,M.,Arenas,Rodrigo,La France insoumise - Nouveau Front Populaire,LFI-NFP,Paris,75,10,rodrigo.arenas@assemblee-nationale.fr,@arenasrodrigo_,,,
+PA795100,M.,Martineau,Éric,Les Démocrates,DEM,Sarthe,72,3,eric.martineau@assemblee-nationale.fr,"@EricMartineau72
+",Eric Martineau,www.ericmartineauavecvous.fr,"76, Rue Aristide Briand 72500 Montval-sur-Loir"
+PA795108,Mme,Leboucher,Élise,La France insoumise - Nouveau Front Populaire,LFI-NFP,Sarthe,72,4,elise.leboucher@assemblee-nationale.fr,@leboucher_elise,elise.leboucher.7204,,"80, Quai Amiral Lalande 72000 Le Mans"
+PA795120,Mme,Ferrari,Marina,Les Démocrates,DEM,Savoie,73,1,marina.ferrari@assemblee-nationale.fr,,marina.ferrari.940,,"213, Avenue Marie de Solms 73100 Aix-les-Bains"
+PA795136,M.,Coulomme,Jean-François,La France insoumise - Nouveau Front Populaire,LFI-NFP,Savoie,73,4,jean-francois.coulomme@assemblee-nationale.fr,@jfcoulomme,Jean-François Coulomme,jfcoulomme.fr,"6-14, Faubourg Maché 73000 Chambéry"
+PA795144,M.,Armand,Antoine,Ensemble pour la République,EPR,Haute-Savoie,74,2,antoine.armand@assemblee-nationale.fr,@antoine_armand,,www.antoine-armand.fr,
+PA795156,Mme,Keloua Hachi,Fatiha,Socialistes et apparentés,SOC,Seine-Saint-Denis,93,8,fatiha.kelouahachi@assemblee-nationale.fr,@KelouaF,,,
+PA795164,Mme,Trouvé,Aurélie,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,9,aurelie.trouve@assemblee-nationale.fr,@TrouveAurelie,Trouveaurelie,,"35, Avenue de Verdun 93230 Romainville"
+PA795176,M.,Metzdorf,Nicolas,Ensemble pour la République,EPR,Nouvelle-Calédonie,988,1,nicolas.metzdorf@assemblee-nationale.fr,@NicolasMetzdorf,Nicolas Metzdorf,,"5, Rue Soane Viane 98880 La Foa (Nouvelle-Calédonie)"
+PA795200,Mme,Dufour,Alma,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Maritime,76,4,alma.dufour@assemblee-nationale.fr,@alma_dufour,almadufour.nupes,almadufour.fr,
+PA795228,Mme,Abomangoli,Nadège,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,10,nadege.abomangoli@assemblee-nationale.fr,@abomangoli,Deputee.Abomangoli,nadegeabomangoli.fr,"13, Rue du 11 novembre 93600 Aulnay-sous-Bois"
+PA795240,Mme,Reid Arbelot,Mereana,Gauche Démocrate et Républicaine,GDR,Polynésie française,987,3,mereana.reidarbelot@assemblee-nationale.fr,,,,
+PA795244,M.,Lenormand,Stéphane,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Saint-Pierre-et-Miquelon,975,1,stephane.lenormand@assemblee-nationale.fr,@StphaneLenorma1,,,Rue de Paris 97500 Saint-Pierre
+PA795258,M.,Gumbs,Frantz,Les Démocrates,DEM,Saint-Barthélemy et Saint-Martin,977,1,frantz.gumbs@assemblee-nationale.fr,@frantzgumbs,fgumbs,,"59, Rue Victor Schoelcher, Gustavia 97133 Saint-Barthélemy"
+PA795270,Mme,Poussier-Winsback,Marie-Agnès,Horizons & Indépendants,HOR,Seine-Maritime,76,9,marieagnes.poussier-winsback@assemblee-nationale.fr,@mapoussier,marieagnes.poussierwinsback,,"1, Place du Général Leclerc (1er étage de la Mairie) 76400 Fécamp"
+PA795278,Mme,Bellamy,Béatrice,Horizons & Indépendants,HOR,Vendée,85,2,beatrice.bellamy@assemblee-nationale.fr,@BeaBellamy85,Béatrice Bellamy 2022,,
+PA795298,M.,Legavre,Jérôme,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,12,jerome.legavre@assemblee-nationale.fr,@LegavreJerome,JeromeLegavreNUPES,jeromelegavre.fr/,"1, Allée de Coubron 93390 Clichy-sous-Bois"
+PA795310,Mme,Guetté,Clémence,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-de-Marne,94,2,clemence.guette@assemblee-nationale.fr,@Clemence_Guette,GuetteClemence,clemenceguette.fr,"7, Rue Louise Michel 94600 Choisy-le-Roi"
+PA795318,M.,Boyard,Louis,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-de-Marne,94,3,louis.boyard@assemblee-nationale.fr,@LouisBoyard,boyardlouis,,
+PA795330,Mme,Caroit,Eléonore,Ensemble pour la République,EPR,Français établis hors de France,99,2,eleonore.caroit@assemblee-nationale.fr,@CaroitEleonore,eleonore.caroit.3,,
+PA795350,M.,Valletoux,Frédéric,Horizons & Indépendants,HOR,Seine-et-Marne,77,2,frederic.valletoux@assemblee-nationale.fr,@fredvalletoux,Frederic Valletoux,,
+PA795362,Mme,Belluco,Lisa,Écologiste et Social,ECOS,Vienne,86,1,lisa.belluco@assemblee-nationale.fr,@LisaBelluco,belluco.lisa,www.lisabelluco.fr,"4, Place de Bretagne 86000 Poitiers"
+PA795374,M.,Lecamp,Pascal,Les Démocrates,DEM,Vienne,86,3,pascal.lecamp@assemblee-nationale.fr,,pascal.lecamp.98,,
+PA795386,M.,Lefèvre,Mathieu,Ensemble pour la République,EPR,Val-de-Marne,94,5,mathieu.lefevre@assemblee-nationale.fr,@MathieuMlefevre,,,
+PA795410,Mme,Roullaud,Béatrice,Rassemblement National,RN,Seine-et-Marne,77,6,beatrice.roullaud@assemblee-nationale.fr,@ROULLAUDBEATRIC,,,"31, Cours Pinteville 77100 Meaux"
+PA795422,M.,Maudet,Damien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Haute-Vienne,87,1,damien.maudet@assemblee-nationale.fr,@damienmaudt,@damienmaudt,,"45, Rue Cruveilhier 87000 Limoges"
+PA795430,M.,Delautrette,Stéphane,Socialistes et apparentés,SOC,Haute-Vienne,87,2,stephane.delautrette@assemblee-nationale.fr,@SDelautrette,profile.php?id=100009065043065,www.stephane-delautrette.fr,"25, Rue François Chénieux 87800 Nexon"
+PA795454,M.,Ben Cheikh,Karim,Écologiste et Social,ECOS,Français établis hors de France,99,9,karim.bencheikh@assemblee-nationale.fr,@K_BenCheikh,,,
+PA795466,Mme,Soudais,Ersilia,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-et-Marne,77,7,ersilia.soudais@assemblee-nationale.fr,@ErsiliaSoudais,esoudaisFI,ersiliasoudais.fr/,
+PA795482,Mme,Meunier,Manon,La France insoumise - Nouveau Front Populaire,LFI-NFP,Haute-Vienne,87,3,manon.meunier@assemblee-nationale.fr,@ManonMeunier_UP,ManonMeunierUP87,manonmeunier.fr,"45, Rue Cruveilhier 87000 Limoges"
+PA795516,M.,Laisney,Maxime,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-et-Marne,77,10,maxime.laisney@assemblee-nationale.fr,@MaximeLaisneyFi,,,
+PA795528,M.,Rodwell,Charles,Ensemble pour la République,EPR,Yvelines,78,1,charles.rodwell@assemblee-nationale.fr,@charlesrodwell_,,www.charlesrodwell.fr,
+PA795540,M.,Grenon,Daniel,Non inscrit,NI,Yonne,89,1,daniel.grenon@assemblee-nationale.fr,@DanielGrenon89,,,"28, Boulevard Pierre Larousse 89130 Toucy"
+PA795552,M.,Odoul,Julien,Rassemblement National,RN,Yonne,89,3,julien.odoul@assemblee-nationale.fr,@JulienOdoul,OdoulJulien,,
+PA795588,Mme,Amrani,Farida,La France insoumise - Nouveau Front Populaire,LFI-NFP,Essonne,91,1,farida.amrani@assemblee-nationale.fr,@Farida_Amrani_,,,"17, Emmanuel Pastré 91000 Evry-Courcouronnes"
+PA795596,M.,Vannier,Paul,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-d'oise,95,5,paul.vannier@assemblee-nationale.fr,@PaulVannierFI,paulvannier,,"5, Rue Defresne Bast 95100 Argenteuil"
+PA795616,M.,Bilongo,Carlos Martens,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-d'oise,95,8,carlosmartens.bilongo@assemblee-nationale.fr,@bilongocarlos,carlos martens bilongo,www.bilongo.fr,"66, Avenue Denis Papin 95400 Arnouville"
+PA795636,M.,Lucas-Lundy,Benjamin,Écologiste et Social,ECOS,Yvelines,78,8,benjamin.lucas@assemblee-nationale.fr,@Benjam1Lucas,,benjaminlucas.fr,
+PA795644,Mme,Da Conceicao Carvalho,Nathalie,Rassemblement National,RN,Essonne,91,2,nathalie.daconceicaocarvalho@assemblee-nationale.fr,@NathCarvalho91,Nathaliedaconceicaocarvalho,,"14, Rue Saint-Antoine 91150 Etampes"
+PA795664,M.,Midy,Paul,Ensemble pour la République,EPR,Essonne,91,5,paul.midy@assemblee-nationale.fr,@midy_paul,midypaul,,
+PA795672,M.,Le Gall,Arnaud,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-d'oise,95,9,arnaud.legall@assemblee-nationale.fr,@Arnaud_Le_Gall_,,,
+PA795722,M.,Olive,Karl,Ensemble pour la République,EPR,Yvelines,78,12,karl.olive@assemblee-nationale.fr,@karlolive,karlolive,karl-olive.fr,
+PA795730,M.,Marchive,Bastien,Ensemble pour la République,EPR,Deux-Sèvres,79,1,bastien.marchive@assemblee-nationale.fr,@B_Marchive,bastien.marchive,bastienmarchive.fr,"37, Rue du Général Largeau 79000 Niort"
+PA795746,M.,Léaument,Antoine,La France insoumise - Nouveau Front Populaire,LFI-NFP,Essonne,91,10,antoine.leaument@assemblee-nationale.fr,@ALeaument,aleaument,antoineleaument.fr,"209, Route de Corbeil 91700 Sainte-Geneviève-des-Bois"
+PA795762,M.,Califer,Elie,Socialistes et apparentés,SOC,Guadeloupe,971,4,elie.califer@assemblee-nationale.fr,@ElieCalifer2022,,,"74, Rue Robert Tamas 97120 Saint-Claude"
+PA795778,M.,Tanguy,Jean-Philippe,Rassemblement National,RN,Somme,80,4,jean-philippe.tanguy@assemblee-nationale.fr,@Jphtanguy,Jean-Philippe Tanguy,,"6, Rue du 14 juillet 80800 Corbie"
+PA795786,Mme,Ménaché,Yaël,Rassemblement National,RN,Somme,80,5,yael.menache@assemblee-nationale.fr,@YaelMenache,Yael Menache,,"1, Rue de la Caisse d'épargne 80200 Péronne"
+PA795808,Mme,Sebaihi,Sabrina,Écologiste et Social,ECOS,Hauts-de-Seine,92,4,sabrina.sebaihi@assemblee-nationale.fr,@SabrinaSebaihi,,,"19, Rue Sadi Carnot ter 92000 Nanterre"
+PA795820,M.,Nadeau,Marcellin,Gauche Démocrate et Républicaine,GDR,Martinique,972,2,marcellin.nadeau@assemblee-nationale.fr,,,,"14, Rue du Général de Gaulle 97250 Saint-Pierre"
+PA795844,Mme,Erodi,Karen,La France insoumise - Nouveau Front Populaire,LFI-NFP,Tarn,81,2,karen.erodi@assemblee-nationale.fr,@KarenErodi,karenerodi2022,,"1, Rue de Verdaussou BP 5 81300 Graulhet"
+PA795864,M.,Cazeneuve,Pierre,Ensemble pour la République,EPR,Hauts-de-Seine,92,7,pierre.cazeneuve@assemblee-nationale.fr,@PierreCazeneuve,,www.pierrecazeneuve.fr,"30, Rue de la Libération 92500 Rueil-Malmaison"
+PA795868,M.,Castor,Jean-Victor,Gauche Démocrate et Républicaine,GDR,Guyane,973,1,jean-victor.castor@assemblee-nationale.fr,@CASTORJeanVict1,,,
+PA795876,M.,Rimane,Davy,Gauche Démocrate et Républicaine,GDR,Guyane,973,2,davy.rimane@assemblee-nationale.fr,@DavyRimane,,,"13.2, Place Appolo CV quartier Simarouba 97310 Kourou"
+PA795884,M.,Ferracci,Marc,Ensemble pour la République,EPR,Français établis hors de France,99,6,marc.ferracci@assemblee-nationale.fr,@FerracciMarc,marcferracci.1,www.marc-ferracci.fr,
+PA795900,Mme,Hamelet,Marine,Rassemblement National,RN,Tarn-et-Garonne,82,2,marine.hamelet@assemblee-nationale.fr,@marine_hamelet,marine.hameletaurand,,"5, Rue Antonin Delzers, 82100 Castelsarrasin"
+PA795908,M.,Chenevard,Yannick,Ensemble pour la République,EPR,Var,83,1,yannick.chenevard@assemblee-nationale.fr,@ychenevard83,,,"9, Rue Corneille 83100 Toulon"
+PA795912,Mme,Lavalette,Laure,Rassemblement National,RN,Var,83,2,laure.lavalette@assemblee-nationale.fr,@LaureLavalette,,,
+PA795920,Mme,Thevenot,Prisca,Ensemble pour la République,EPR,Hauts-de-Seine,92,8,prisca.thevenot@assemblee-nationale.fr,@priscathevenot,,,
+PA795950,M.,Amiel,David,Ensemble pour la République,EPR,Paris,75,13,david.amiel@assemblee-nationale.fr,@Amiel_David_,,,
+PA795958,M.,Haddad,Benjamin,Ensemble pour la République,EPR,Paris,75,14,benjamin.haddad@assemblee-nationale.fr,@benjaminhaddad,,benjaminhaddad.fr,
+PA795966,M.,Rambaud,Stéphane,Rassemblement National,RN,Var,83,3,stephane.rambaud@assemblee-nationale.fr,@stephan1Rambaud,SRambaudRN,,"19, Avenue des Îles d'Or 83400 Hyères"
+PA795974,M.,Lottiaux,Philippe,Rassemblement National,RN,Var,83,4,philippe.lottiaux@assemblee-nationale.fr,@phlottiaux,Ph Lottiaux,,
+PA795982,M.,Saintoul,Aurélien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Hauts-de-Seine,92,11,aurelien.saintoul@assemblee-nationale.fr,@A_Saintoul,,www.aureliensaintoul.fr,
+PA795990,Mme,Bregeon,Maud,Ensemble pour la République,EPR,Hauts-de-Seine,92,13,maud.bregeon@assemblee-nationale.fr,@guichard_claire,,,
+PA795998,Mme,K/Bidi,Émeline,Gauche Démocrate et Républicaine,GDR,Réunion,974,4,emeline.kbidi@assemblee-nationale.fr,,,,"28, Rue Caumont 97410 Saint-Pierre"
+PA796010,M.,Maillot,Frédéric,Gauche Démocrate et Républicaine,GDR,Réunion,974,6,frederic.maillot@assemblee-nationale.fr,@frdric_maillot,fredericmaillotdepute,,"93 B, Avenue Leconte de Lisle 97490 Saint-Denis (La Réunion)"
+PA796018,Mme,Simonnet,Danielle,Écologiste et Social,ECOS,Paris,75,15,danielle.simonnet@assemblee-nationale.fr,@SimonnetDeputee,daniellesimonnetparis,www.daniellesimonnet.fr,
+PA796026,Mme,Lechanteux,Julie,Rassemblement National,RN,Var,83,5,julie.lechanteux@assemblee-nationale.fr,@JLechanteux,jlechanteux,,"70, Rue Jean Jaurès 83600 Fréjus.94.95.20.45"
+PA796034,M.,Giletti,Frank,Rassemblement National,RN,Var,83,6,frank.giletti@assemblee-nationale.fr,@FrankGiletti,,,
+PA796042,M.,Boccaletti,Frédéric,Rassemblement National,RN,Var,83,7,frederic.boccaletti@assemblee-nationale.fr,@Boccaletti83,@Boccaletti83,,"48, Avenue Vincent Picareau 83140 Six-Fours-les-Plages"
+PA796050,M.,Schreck,Philippe,Rassemblement National,RN,Var,83,8,philippe.schreck@assemblee-nationale.fr,@Ph_Schreck,Philippe Schreck,www.philippe-schreck.fr/,"18, Boulevard Georges Clemenceau 83300 Draguignan"
+PA796062,M.,Portes,Thomas,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,3,thomas.portes@assemblee-nationale.fr,@Portes_Thomas,thomas portes,thomasportes93.com,"12, Place Georges Pompidou 93160 Noisy-le-Grand"
+PA796070,M.,Gaillard,Perceval,La France insoumise - Nouveau Front Populaire,LFI-NFP,Réunion,974,7,perceval.gaillard@assemblee-nationale.fr,,,,
+PA796078,Mme,Youssouffa,Estelle,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Mayotte,976,1,estelle.youssouffa@assemblee-nationale.fr,@DeputeeEstelle,www.facebook.com/EstelleYoussouffaDeputee,,
+PA796090,M.,Caron,Aymeric,La France insoumise - Nouveau Front Populaire,LFI-NFP,Paris,75,18,aymeric.caron@assemblee-nationale.fr,@CaronAymericoff,aymeric.caron.5,,"15, Rue Hermel 75018 Paris"
+PA796106,M.,Bénard,Édouard,Gauche Démocrate et Républicaine,GDR,Seine-Maritime,76,3,edouard.benard@assemblee-nationale.fr,,,,"99, Avenue Jean Jaurès 76300 Sotteville-lès-Rouen"
+PA796118,Mme,Auzanot,Bénédicte,Rassemblement National,RN,Vaucluse,84,2,benedicte.auzanot@assemblee-nationale.fr,,,www.benedicte-auzanot.fr,"98, Avenue Gabriel Péri 84300 Cavaillon"
+PA817203,Mme,Miller,Laure,Ensemble pour la République,EPR,Marne,51,2,laure.miller@assemblee-nationale.fr,@Laure_Miller,Laure Miller,,"9, Rue du Colonel Fabien 51100 Reims"
+PA817211,M.,Pilato,René,La France insoumise - Nouveau Front Populaire,LFI-NFP,Charente,16,1,rene.pilato@assemblee-nationale.fr,@PilatoRene,René Pilato,renepilato.fr/,"123, Rue de Périgueux 16000 Angoulême"
+PA822617,Mme,Froger,Martine,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Ariège,9,1,martine.froger@assemblee-nationale.fr,@MartineFrogerAN,,martinefroger.fr,
+PA826635,M.,Rousseau,Aurélien,Socialistes et apparentés,SOC,Yvelines,78,7,aurelien.rousseau@assemblee-nationale.fr,@aur_rousseau,,,
+PA840075,M.,Casterman,Eddy,Rassemblement National,RN,Aisne,2,3,eddy.casterman@assemblee-nationale.fr,,,,
+PA840119,Mme,Delannoy,Sandra,Rassemblement National,RN,Nord,59,3,sandra.delannoy@assemblee-nationale.fr,,,,
+PA840135,M.,Dufosset,Alexandre,Rassemblement National,RN,Nord,59,18,alexandre.dufosset@assemblee-nationale.fr,,,,"10, Rue de Nice 59400 Cambrai"
+PA840143,M.,Florquin,Guillaume,Rassemblement National,RN,Nord,59,20,guillaume.florquin@assemblee-nationale.fr,,,,
+PA840159,M.,Clavet,Bruno,Rassemblement National,RN,Pas-de-Calais,62,3,bruno.clavet@assemblee-nationale.fr,@BrunoClavet,bruno clavet,,
+PA840171,M.,Grégoire,Emmanuel,Socialistes et apparentés,SOC,Paris,75,7,emmanuel.gregoire@assemblee-nationale.fr,,,,
+PA840235,M.,Frébault,Moerani,Ensemble pour la République,EPR,Polynésie française,987,1,moerani.frebault@assemblee-nationale.fr,,,,
+PA840657,Mme,Vaginay,Sophie,UDR,UDR,Alpes-de-Haute-Provence,4,2,sophie.vaginay@assemblee-nationale.fr,@SophieVaginay,sophie.vaginay.ricourt,,
+PA840665,Mme,Allemand,Marie-José,Socialistes et apparentés,SOC,Hautes-Alpes,5,1,marie-jose.allemand@assemblee-nationale.fr,,Marie-josé Allemand,,
+PA840673,Mme,Rossi,Valérie,Socialistes et apparentés,SOC,Hautes-Alpes,5,2,valerie.rossi@assemblee-nationale.fr,,,,
+PA840685,M.,Trébuchet,Vincent,UDR,UDR,Ardèche,7,2,vincent.trebuchet@assemblee-nationale.fr,@Vt_Trebuchet,Vincent Trébuchet,,
+PA840701,M.,Chaix,Bernard,UDR,UDR,Alpes-Maritimes,6,3,bernard.chaix@assemblee-nationale.fr,,,,
+PA840721,M.,Chavent,Marc,UDR,UDR,Ain,1,5,marc.chavent@assemblee-nationale.fr,,,,
+PA840737,M.,Termet,Flavien,Rassemblement National,RN,Ardennes,8,1,flavien.termet@assemblee-nationale.fr,@Flavien_Termet,,,
+PA840757,Mme,Griseti,Monique,Rassemblement National,RN,Bouches-du-Rhône,13,1,monique.griseti@assemblee-nationale.fr,,Monique Griseti,,
+PA840765,M.,Lhardit,Laurent,Socialistes et apparentés,SOC,Bouches-du-Rhône,13,2,laurent.lhardit@assemblee-nationale.fr,@laurentlhardit,,,
+PA840773,M.,Fayssat,Olivier,UDR,UDR,Bouches-du-Rhône,13,6,olivier.fayssat@assemblee-nationale.fr,@OlivierFayssat,Olivier Fayssat,,
+PA840781,M.,Tonussi,Romain,Rassemblement National,RN,Bouches-du-Rhône,13,8,romain.tonussi@assemblee-nationale.fr,,,,
+PA840793,M.,Pena,Marc,Socialistes et apparentés,SOC,Bouches-du-Rhône,13,11,marc.pena@assemblee-nationale.fr,@MarcPena_,marcpena,,
+PA840801,M.,Fouquart,Emmanuel,Rassemblement National,RN,Bouches-du-Rhône,13,13,emmanuel.fouquart@assemblee-nationale.fr,@e_Fouquart,Emmanuel Fouquart,,Avenue de Paradis Saint-Roch Résidence Le Canal SD7 C 13500 Martigues
+PA840809,M.,Verny,Gérault,UDR,UDR,Bouches-du-Rhône,13,14,gerault.verny@assemblee-nationale.fr,,,,
+PA840817,M.,Bruneau,Joël,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Calvados,14,1,joel.bruneau@assemblee-nationale.fr,,,,"10, Avenue de l'Hippodrome 14000 Caen"
+PA840829,M.,Barusseau,Fabrice,Socialistes et apparentés,SOC,Charente-Maritime,17,3,fabrice.barusseau@assemblee-nationale.fr,@fbarusseau,fabrice.barusseau.7,,
+PA840837,M.,Markowsky,Pascal,Rassemblement National,RN,Charente-Maritime,17,4,pascal.markowsky@assemblee-nationale.fr,,,,
+PA840857,Mme,Lechon,Nadine,Rassemblement National,RN,Dordogne,24,1,nadine.lechon@assemblee-nationale.fr,@nadinelechon,,,
+PA840869,Mme,Joubert,Florence,Rassemblement National,RN,Dordogne,24,3,florence.joubert@assemblee-nationale.fr,@Flo_Joubert,,,
+PA840889,M.,Bloch,Matthieu,UDR,UDR,Doubs,25,3,matthieu.bloch@assemblee-nationale.fr,,,,
+PA840903,M.,Christophle,Paul,Socialistes et apparentés,SOC,Drôme,26,1,paul.christophle@assemblee-nationale.fr,@x.com/paulchristophle,profile.php?id=61552378661850,,
+PA840915,M.,Monnier,Thibaut,Rassemblement National,RN,Drôme,26,4,thibaut.monnier@assemblee-nationale.fr,,,,
+PA840939,Mme,Godard,Océane,Socialistes et apparentés,SOC,Côte-d'or,21,1,oceane.godard@assemblee-nationale.fr,@O_charretgodard,,,
+PA840947,Mme,Hervieu,Catherine,Écologiste et Social,ECOS,Côte-d'or,21,2,catherine.hervieu@assemblee-nationale.fr,@CatHervieu,,,
+PA840955,M.,Pribetich,Pierre,Socialistes et apparentés,SOC,Côte-d'or,21,3,pierre.pribetich@assemblee-nationale.fr,,,,
+PA840967,M.,Lioret,René,Rassemblement National,RN,Côte-d'or,21,5,rene.lioret@assemblee-nationale.fr,,,,
+PA840979,M.,Le Fur,Corentin,Droite Républicaine,DR,Côtes-d'armor,22,3,corentin.lefur@assemblee-nationale.fr,,,,
+PA840983,M.,Lenoir,Bartolomé,UDR,UDR,Creuse,23,1,bartolome.lenoir@assemblee-nationale.fr,,,,
+PA840997,M.,Biteau,Benoît,Écologiste et Social,ECOS,Charente-Maritime,17,2,benoit.biteau@assemblee-nationale.fr,,,,
+PA841017,M.,Huwart,Harold,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Eure-et-Loir,28,3,harold.huwart@assemblee-nationale.fr,,,,
+PA841023,M.,Cadalen,Pierre-Yves,La France insoumise - Nouveau Front Populaire,LFI-NFP,Finistère,29,2,pierre-yves.cadalen@assemblee-nationale.fr,@pycadalen,Pierre-Yves Cadalen,,
+PA841047,M.,Ceccoli,François-Xavier,Droite Républicaine,DR,Haute-corse,2b,2,francois-xavier.ceccoli@assemblee-nationale.fr,,,,
+PA841067,M.,Allegret-Pilot,Alexandre,UDR,UDR,Gard,30,5,alexandre.allegret-pilot@assemblee-nationale.fr,,,,
+PA841075,Mme,Josserand,Sylvie,Rassemblement National,RN,Gard,30,6,sylvie.josserand@assemblee-nationale.fr,,,,
+PA841091,M.,Simion,Arnaud,Socialistes et apparentés,SOC,Haute-Garonne,31,6,arnaud.simion@assemblee-nationale.fr,@ArnoSimion,arnaud.simion,,
+PA841107,M.,Oberti,Jacques,Socialistes et apparentés,SOC,Haute-Garonne,31,10,jacques.oberti@assemblee-nationale.fr,,,,
+PA841131,Mme,Bouquin,Manon,Rassemblement National,RN,Hérault,34,4,manon.bouquin@assemblee-nationale.fr,,,,
+PA841139,M.,Gabarron,Julien,Rassemblement National,RN,Hérault,34,6,julien.gabarron@assemblee-nationale.fr,@JulienGabarron,,,
+PA841167,M.,Prevost,Hugo,La France insoumise - Nouveau Front Populaire,LFI-NFP,Isère,38,1,hugo.prevost@assemblee-nationale.fr,,,,
+PA841183,Mme,Mansouri,Hanane,UDR,UDR,Isère,38,8,hanane.mansouri@assemblee-nationale.fr,@hanane_mnsr,,,
+PA841191,Mme,Nosbé,Sandrine,La France insoumise - Nouveau Front Populaire,LFI-NFP,Isère,38,9,sandrine.nosbe@assemblee-nationale.fr,,,,
+PA841199,M.,Perez,Thierry,Rassemblement National,RN,Isère,38,10,thierry.perez@assemblee-nationale.fr,@thierryperez43,,,
+PA841207,M.,Alloncle,Charles,UDR,UDR,Hérault,34,9,charles.alloncle@assemblee-nationale.fr,,,,
+PA841215,Mme,Mesmeur,Marie,La France insoumise - Nouveau Front Populaire,LFI-NFP,Ille-et-Vilaine,35,1,marie.mesmeur@assemblee-nationale.fr,@MarieMesmeur,,,
+PA841223,M.,Lahais,Tristan,Écologiste et Social,ECOS,Ille-et-Vilaine,35,2,tristan.lahais@assemblee-nationale.fr,,,,
+PA841243,M.,Saint-Pasteur,Sébastien,Socialistes et apparentés,SOC,Gironde,33,7,sebastien.saint-pasteur@assemblee-nationale.fr,,,,"48, Avenue Jean Jaurès 33600 Pessac"
+PA841251,Mme,Feld,Mathilde,La France insoumise - Nouveau Front Populaire,LFI-NFP,Gironde,33,12,mathilde.feld@assemblee-nationale.fr,,,,
+PA841295,M.,Courbon,Pierrick,Socialistes et apparentés,SOC,Loire,42,1,pierrick.courbon@assemblee-nationale.fr,@pierrickcourbon,pierrickcourbon,,
+PA841315,M.,Benbrahim,Karim,Socialistes et apparentés,SOC,Loire-Atlantique,44,1,karim.benbrahim@assemblee-nationale.fr,@Benbrahim_K,,,
+PA841327,M.,Roussel,Fabrice,Socialistes et apparentés,SOC,Loire-Atlantique,44,5,fabrice.roussel@assemblee-nationale.fr,,,,
+PA841339,M.,Brard,Jean-Michel,Horizons & Indépendants,HOR,Loire-Atlantique,44,9,jean-michel.brard@assemblee-nationale.fr,,jmichel.brard,,
+PA841351,M.,Duplessy,Emmanuel,Écologiste et Social,ECOS,Loiret,45,2,emmanuel.duplessy@assemblee-nationale.fr,@emmduplessy,,,
+PA841359,Mme,de Pélichy,Constance,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Loiret,45,3,constance.depelichy@assemblee-nationale.fr,,Constance de Pélichy,,
+PA841367,M.,Proença,Christophe,Socialistes et apparentés,SOC,Lot,46,2,christophe.proenca@assemblee-nationale.fr,,,,
+PA841381,Mme,Pantel,Sophie,Socialistes et apparentés,SOC,Lozère,48,1,sophie.pantel@assemblee-nationale.fr,,,,
+PA841395,M.,Michelet,Maxime,UDR,UDR,Marne,51,3,maxime.michelet@assemblee-nationale.fr,@Maxime_Michelet,,,
+PA841419,M.,Girard,Damien,Écologiste et Social,ECOS,Morbihan,56,5,damien.girard@assemblee-nationale.fr,,,,
+PA841431,Mme,Colin-Oesterlé,Nathalie,Horizons & Indépendants,HOR,Moselle,57,3,nathalie.colin-oesterle@assemblee-nationale.fr,@ncolin_oesterle,www.facebook.com/nco.metz,ncometz.com/,"3, Place Saint-Martin 57000 Metz"
+PA841439,M.,Jenft,Pascal,Rassemblement National,RN,Moselle,57,5,pascal.jenft@assemblee-nationale.fr,,PascalJenft57,,
+PA841451,M.,Guibert,Julien,Rassemblement National,RN,Nièvre,58,2,julien.guibert@assemblee-nationale.fr,,,,
+PA841463,Mme,Mercier,Estelle,Socialistes et apparentés,SOC,Meurthe-et-Moselle,54,1,estelle.mercier@assemblee-nationale.fr,@estellemercier2,Estelle Mercier Nancy,,
+PA841471,M.,Hablot,Stéphane,Socialistes et apparentés,SOC,Meurthe-et-Moselle,54,2,stephane.hablot@assemblee-nationale.fr,,s.hablot,,"4, Place de Paris 54500 Vandoeuvre-lès-Nancy"
+PA841479,M.,Weber,Frédéric,Rassemblement National,RN,Meurthe-et-Moselle,54,3,frederic.weber@assemblee-nationale.fr,,,,
+PA841487,M.,Boulogne,Anthony,Rassemblement National,RN,Meurthe-et-Moselle,54,6,anthony.boulogne@assemblee-nationale.fr,@AntBoulogne54,,,
+PA841495,M.,Amblard,Maxime,Rassemblement National,RN,Meuse,55,1,maxime.amblard@assemblee-nationale.fr,@MaximeAmblard5,massou24,,
+PA841507,M.,Bonnet,Nicolas,Écologiste et Social,ECOS,Puy-de-Dôme,63,3,nicolas.bonnet@assemblee-nationale.fr,@NicolasBonnet63,NicolasBonnet63,www.nicolasbonnet.fr,
+PA841515,M.,Le Coq,Aurélien,La France insoumise - Nouveau Front Populaire,LFI-NFP,Nord,59,1,aurelien.lecoq@assemblee-nationale.fr,@Aurelien_Le_Coq,Aurélien Le Coq,,"165, Rue d'Arras 59000 Lille"
+PA841539,M.,Gokel,Julien,Socialistes et apparentés,SOC,Nord,59,13,julien.gokel@assemblee-nationale.fr,,julien.gokel.59,,
+PA841553,M.,Tesson,Thierry,Rassemblement National,RN,Nord,59,17,thierry.tesson@assemblee-nationale.fr,,,,
+PA841563,Mme,Marais-Beuil,Claire,Rassemblement National,RN,Oise,60,1,claire.marais-beuil@assemblee-nationale.fr,,,,
+PA841575,M.,Vos,Frédéric-Pierre,Rassemblement National,RN,Oise,60,5,fredericpierre.vos@assemblee-nationale.fr,@Fredericvo79738,Frédéric Pierre Vos,,
+PA841587,M.,Magnier,David,Rassemblement National,RN,Oise,60,7,david.magnier@assemblee-nationale.fr,,,,
+PA841605,M.,Golliot,Antoine,Rassemblement National,RN,Pas-de-Calais,62,5,antoine.golliot@assemblee-nationale.fr,,,,
+PA841613,M.,de Fleurian,Marc,Rassemblement National,RN,Pas-de-Calais,62,7,marc.defleurian@assemblee-nationale.fr,@MarcDeFleurian,defleurianmarc?locale=fr_FR,,"5, Quai du Commerce 62100 Calais"
+PA841621,M.,Evrard,Auguste,Rassemblement National,RN,Pas-de-Calais,62,8,auguste.evrard@assemblee-nationale.fr,@Au_Evrard,auguste.evrard62,,
+PA841633,M.,Dufau,Peio,Socialistes et apparentés,SOC,Pyrénées-Atlantiques,64,6,peio.dufau@assemblee-nationale.fr,@Peioizate,,,
+PA841645,M.,Bernhardt,Théo,Rassemblement National,RN,Bas-Rhin,67,8,theo.bernhardt@assemblee-nationale.fr,@Th_Bnrdt,,,
+PA841657,Mme,Belouassa-Cherifi,Anaïs,La France insoumise - Nouveau Front Populaire,LFI-NFP,Rhône,69,1,anais.belouassa@assemblee-nationale.fr,@BelouassaAnais,,,
+PA841665,M.,Fégné,Denis,Socialistes et apparentés,SOC,Hautes-Pyrénées,65,2,denis.fegne@assemblee-nationale.fr,,,,
+PA841681,M.,Sother,Thierry,Socialistes et apparentés,SOC,Bas-Rhin,67,3,thierry.sother@assemblee-nationale.fr,,,,
+PA841693,M.,Laussucq,Jean,Ensemble pour la République,EPR,Paris,75,2,jean.laussucq@assemblee-nationale.fr,@JeanLaussucq,,,
+PA841701,Mme,Balage El Mariky,Léa,Écologiste et Social,ECOS,Paris,75,3,lea.balage@assemblee-nationale.fr,,,,
+PA841713,M.,Tavernier,Boris,Écologiste et Social,ECOS,Rhône,69,2,boris.tavernier@assemblee-nationale.fr,@boris_tavernier,Boris Tavernier,,
+PA841717,Mme,Runel,Sandrine,Socialistes et apparentés,SOC,Rhône,69,4,sandrine.runel@assemblee-nationale.fr,@SandrineRunel,SandrineRunelLyon,,
+PA841729,M.,Lahmar,Abdelkader,La France insoumise - Nouveau Front Populaire,LFI-NFP,Rhône,69,7,abdelkader.lahmar@assemblee-nationale.fr,@ak_lahmar,Abdelkader Lahmar,,
+PA841737,M.,Gery,Jonathan,Rassemblement National,RN,Rhône,69,8,jonathan.gery@assemblee-nationale.fr,@JonathanGery_AN,people/Jonathan-Gery/61562278240513/,,
+PA841749,Mme,Joncour,Tiffany,Rassemblement National,RN,Rhône,69,13,tiffany.joncour@assemblee-nationale.fr,@Tiffany_Joncour,,,
+PA841761,M.,Dutremble,Aurélien,Rassemblement National,RN,Saône-et-Loire,71,3,aurelien.dutremble@assemblee-nationale.fr,@A_Dutremble,Aurélien Dutremble,,
+PA841769,M.,Michoux,Éric,UDR,UDR,Saône-et-Loire,71,4,eric.michoux@assemblee-nationale.fr,,Eric Michoux,,
+PA841777,M.,Sanvert,Arnaud,Rassemblement National,RN,Saône-et-Loire,71,5,arnaud.sanvert@assemblee-nationale.fr,,,,
+PA841813,Mme,Herouin-Léautey,Florence,Socialistes et apparentés,SOC,Seine-Maritime,76,1,florence.herouin-leautey@assemblee-nationale.fr,@Fleautey,,,
+PA841825,M.,Martin,Patrice,Rassemblement National,RN,Seine-Maritime,76,6,patrice.martin@assemblee-nationale.fr,,,,
+PA841837,M.,Le Bourgeois,Robert,Rassemblement National,RN,Seine-Maritime,76,10,robert.lebourgeois@assemblee-nationale.fr,@LeBourgeois7610,Robert Le Bourgeois,,
+PA841845,M.,Saint-Martin,Arnaud,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-et-Marne,77,1,arnaud.saint-martin@assemblee-nationale.fr,,saintmartin2022,,
+PA841853,Mme,Hervieu,Céline,Socialistes et apparentés,SOC,Paris,75,11,celine.hervieu@assemblee-nationale.fr,@Celine_Hervieu,celine.hervieu01,,
+PA841873,M.,Limongi,Julien,Rassemblement National,RN,Seine-et-Marne,77,4,julien.limongi@assemblee-nationale.fr,@julien_limongi,,,
+PA841885,M.,Bonnet,Arnaud,Écologiste et Social,ECOS,Seine-et-Marne,77,8,arnaud.bonnet@assemblee-nationale.fr,,,,
+PA841893,Mme,Thiébault-Martinez,Céline,Socialistes et apparentés,SOC,Seine-et-Marne,77,9,celine.thiebault-martinez@assemblee-nationale.fr,,,,
+PA841919,Mme,Diop,Dieynaba,Socialistes et apparentés,SOC,Yvelines,78,9,dieynaba.diop@assemblee-nationale.fr,,,,"47, Rue Aristide Briand 78130 Les Mureaux"
+PA841931,M.,Mazaury,Laurent,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Yvelines,78,11,laurent.mazaury@assemblee-nationale.fr,,,,
+PA841947,Mme,Hamdane,Zahia,La France insoumise - Nouveau Front Populaire,LFI-NFP,Somme,80,2,zahia.hamdane@assemblee-nationale.fr,@ZahiaHamdane,ZahiaHamdane,,
+PA841955,M.,Renault,Matthias,Rassemblement National,RN,Somme,80,3,matthias.renault@assemblee-nationale.fr,@MatthiasRN,,,
+PA841981,Mme,Rimbert,Catherine,Rassemblement National,RN,Vaucluse,84,5,catherine.rimbert@assemblee-nationale.fr,@cathRimbert84,Catherine Rimbert,,
+PA842001,M.,Bigot,Guillaume,Rassemblement National,RN,Territoire de Belfort,90,2,guillaume.bigot@assemblee-nationale.fr,@Guillaume_Bigot,Guillaume Bigot,,
+PA842013,M.,Gustave,Steevy,Écologiste et Social,ECOS,Essonne,91,3,steevy.gustave@assemblee-nationale.fr,,,,
+PA842029,Mme,Lejeune,Claire,La France insoumise - Nouveau Front Populaire,LFI-NFP,Essonne,91,7,claire.lejeune@assemblee-nationale.fr,@ClaireMLejeune,,,
+PA842037,M.,Cernon,Bérenger,La France insoumise - Nouveau Front Populaire,LFI-NFP,Essonne,91,8,berenger.cernon@assemblee-nationale.fr,@slappy_w,,,
+PA842045,Mme,Ozenne,Julie,Écologiste et Social,ECOS,Essonne,91,9,julie.ozenne@assemblee-nationale.fr,@OzenneJulie,julie-ozenne,www.julie-ozenne.fr/,
+PA842073,M.,Dussausaye,Gaëtan,Rassemblement National,RN,Vosges,88,2,gaetan.dussausaye@assemblee-nationale.fr,@G_Dussausaye,G.Dussausaye,,
+PA842085,M.,Humbert,Sébastien,Rassemblement National,RN,Vosges,88,4,sebastien.humbert@assemblee-nationale.fr,@Seb_Humbert,SebastienHumbertRN,sebastienhumbert.fr/,"86, Rue de Verdun 88800 Vittel"
+PA842097,Mme,Roy,Sophie-Laurence,Rassemblement National,RN,Yonne,89,2,sophie-laurence.roy@assemblee-nationale.fr,,,www.slr2024.fr,
+PA842105,M.,Arnault,Raphaël,La France insoumise - Nouveau Front Populaire,LFI-NFP,Vaucluse,84,1,raphael.arnault@assemblee-nationale.fr,@ArnaultRaphael,,,
+PA842117,M.,Jeanbrun,Vincent,Droite Républicaine,DR,Val-de-Marne,94,7,vincent.jeanbrun@assemblee-nationale.fr,,,,
+PA842125,M.,Lam,Thomas,Horizons & Indépendants,HOR,Hauts-de-Seine,92,2,thomas.lam@assemblee-nationale.fr,,,,
+PA842137,M.,Séjourné,Stéphane,Ensemble pour la République,EPR,Hauts-de-Seine,92,9,stephane.sejourne@assemblee-nationale.fr,,,,
+PA842155,M.,Diouara,Aly,La France insoumise - Nouveau Front Populaire,LFI-NFP,Seine-Saint-Denis,93,5,aly.diouara@assemblee-nationale.fr,@AlyDiouara,,93aucoeur.fr,
+PA842187,Mme,Cathala,Gabrielle,La France insoumise - Nouveau Front Populaire,LFI-NFP,Val-d'oise,95,6,gabrielle.cathala@assemblee-nationale.fr,@GabrielleCthl,,,
+PA842195,M.,Eskenazi,Romain,Socialistes et apparentés,SOC,Val-d'oise,95,7,romain.eskenazi@assemblee-nationale.fr,@Romain Eskenazi,Romain Eskenazi,www.romain-eskenazi.fr,
+PA842211,Mme,Bellay,Béatrice,Socialistes et apparentés,SOC,Martinique,972,3,beatrice.bellay@assemblee-nationale.fr,,,,
+PA842227,M.,Rivière,Joseph,Rassemblement National,RN,Réunion,974,3,joseph.riviere@assemblee-nationale.fr,,joseph.riviere.legislatives.2024,,
+PA842255,Mme,Sicard,Anne,Rassemblement National,RN,Val-d'oise,95,1,anne.sicard@assemblee-nationale.fr,,,,
+PA842263,Mme,Hadizadeh,Ayda,Socialistes et apparentés,SOC,Val-d'oise,95,2,ayda.hadizadeh@assemblee-nationale.fr,@aydahadi,ayda.hadizadeh,,
+PA842271,M.,Maurel,Emmanuel,Gauche Démocrate et Républicaine,GDR,Val-d'oise,95,3,emmanuel.maurel@assemblee-nationale.fr,@emmanuelmaurel,emmanuelmaurel,emmanuelmaurel.eu/,
+PA842279,Mme,Bamana,Anchya,Rassemblement National,RN,Mayotte,976,2,anchya.bamana@assemblee-nationale.fr,,,,
+PA842299,M.,Tjibaou,Emmanuel,Gauche Démocrate et Républicaine,GDR,Nouvelle-Calédonie,988,2,emmanuel.tjibaou@assemblee-nationale.fr,,,,
+PA842311,M.,Caure,Vincent,Ensemble pour la République,EPR,Français établis hors de France,99,3,vincent.caure@assemblee-nationale.fr,@CaureVincent,,,
+PA942,M.,de Courson,Charles,"Libertés, Indépendants, Outre-mer et Territoires",LIOT,Marne,51,5,Charles.deCourson@assemblee-nationale.fr,@C_deCourson,charlesdecourson.marne,,"38, Rue de la Petite-Sainte 51300 Vitry-le-François"
