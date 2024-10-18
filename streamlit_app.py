@@ -16,7 +16,7 @@ st.page_link("https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/CION_F
 # Function to load the CSV file from GitHub
 @st.cache
 def load_data():
-    url = "https://raw.githubusercontent.com/DontExtractSand/map/refs/heads/main/deputes-active.csv"
+    url = "https://raw.githubusercontent.com/DontExtractSand/map2/refs/heads/main/deputes-active.csv"
     data = pd.read_csv(url)
     return data
 
